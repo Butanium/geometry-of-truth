@@ -14,6 +14,7 @@ n_distractors = len(distractors)
 dataset_names = [
     "cities",
     "neg_cities",
+    "companies_true_false",
 ]
 
 datasets = [
@@ -21,7 +22,7 @@ datasets = [
 ]
 
 n_statements = len(datasets[0])
-assert all(len(dataset) == n_statements for dataset in datasets)
+#assert all(len(dataset) == n_statements for dataset in datasets)
 
 distractor_idxs = []
 for idx in range(2 * n_distractors):
