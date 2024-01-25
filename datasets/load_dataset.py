@@ -11,7 +11,9 @@ es_counter = 0
 
 for entry in ds["train"] :
     if entry['role'] == 'prompter' and entry['lang'] in ['en','es']:
-        if entry['lang'] == 'en' and en_counter > 7500 :
+        if entry['lang'] == 'en' and en_counter > 1000 :
+            continue
+        elif entry['lang'] == 'es' and es_counter > 1000 :
             continue
         dataset['statement'].append(entry['text'])
         dataset['has_en'].append(entry['lang'] == 'en')
@@ -23,4 +25,4 @@ for entry in ds["train"] :
 print(en_counter, es_counter)
 
 df = pd.DataFrame.from_dict(dataset)
-df.to_csv("datasets/data.csv")
+df.to_csv("datasets/sentences.csv")
