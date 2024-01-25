@@ -34,6 +34,7 @@ class LRProbe(nn.Module):
             device=device,
             algo=algo,
         )
+        return probe
 
     def fit(
         self,
@@ -74,6 +75,7 @@ class LRProbe(nn.Module):
                 f"Unknown algo {algo}. Must be one of 'sklearn', 'sgd', or 'elk'"
             )
     
+    @th.no_grad()
     def accuracy(self, acts, labels):
         return (self.pred(acts) == labels).float().mean()
 
