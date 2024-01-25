@@ -195,6 +195,7 @@ def generate_acts(
                 th.save(act, layer_dir / f"batch_{idx}.pt")
                 clean = False
                 idx += len(batch)
+        (save_dir / "generated_complete_marker").touch()
 
 
 def collect_acts(
@@ -223,8 +224,7 @@ def collect_acts(
     )
     if (
         not directory.exists()
-        or not any(directory.iterdir())
-        or len(glob(str(directory / "batch_*.pt"))) == 0
+        or not (directory / "generated_complete_marker").exists()
     ):
         generate_acts(
             model_name,
