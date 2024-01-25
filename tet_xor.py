@@ -10,10 +10,11 @@ label_names = [
 DEVICE = "auto"
 if DEVICE == "auto":
     DEVICE = "cuda" if th.cuda.is_available() else "cpu"
+all_checkpoints = [0] + [2**i for i in range(10)] + [1000 * 2**i for i in range(8)] + [143_000]
 model = "EleutherAI/pythia-70m-deduped"
 all_accs = {}
-for i in list(range(10)):
-    revision = f"step{2**i}"
+for step in all_checkpoints:
+    revision = f"step{step}"
     accs = {}
     for label_name in label_names:
         dm = DataManager()
