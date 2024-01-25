@@ -7,7 +7,7 @@ label_names = [
     "has_en",
     "has_alice xor has_en",
 ]
-DEVICE = "cpu"
+DEVICE = "auto"
 if DEVICE == "auto":
     DEVICE = "cuda" if th.cuda.is_available() else "cpu"
 model = "EleutherAI/pythia-70m-deduped"
