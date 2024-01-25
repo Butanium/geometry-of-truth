@@ -144,6 +144,7 @@ def generate_acts(
     tokenizer, model = load_model(
         model_name, device, revision=revision, shuffle=shuffle, random_init=random_init
     )
+    model.eval()
     for dataset in datasets:
         statements = load_statements(dataset)
         if noperiod:
@@ -187,9 +188,13 @@ def generate_acts(
                     for file in layer_dir.iterdir():
                         file.unlink()
                 layer_dir.mkdir(parents=True, exist_ok=True)
+                if clean:
+                    assert (
+                        len(list(layer_dir.iterdir())) == 0
+                    ), "Not all files have been removed"
                 th.save(act, layer_dir / f"batch_{idx}.pt")
-            clean = False
-            idx += len(batch)
+                clean = False
+                idx += len(batch)
 
 
 def collect_acts(
