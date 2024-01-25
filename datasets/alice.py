@@ -7,8 +7,7 @@ import random
 
 
 dataset_names = [
-    "cities",
-    "neg_cities",
+    "companies_true_false_has_not",
 ]
 
 datasets = [
