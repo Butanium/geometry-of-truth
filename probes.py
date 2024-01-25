@@ -49,7 +49,7 @@ class LRProbe(nn.Module):
             classifier = LogisticRegression(
                 class_weight="balanced", solver="newton-cholesky"
             )
-            classifier.fit(acts.cpu().numpy(), labels.cpu().numpy())
+            classifier.fit(acts.cpu(), labels.cpu())
             self.net[0].weight.data.copy_(th.tensor(classifier.coef_, device=device))
             self.net[0].bias.data.copy_(th.tensor(classifier.intercept_, device=device))
         elif algo == "sgd":
@@ -73,6 +73,9 @@ class LRProbe(nn.Module):
             raise ValueError(
                 f"Unknown algo {algo}. Must be one of 'sklearn', 'sgd', or 'elk'"
             )
+    
+    def accuracy(self, acts, labels):
+        return (self.pred(acts) == labels).float().mean()
 
     @property
     def direction(self):
