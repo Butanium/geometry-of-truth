@@ -5,12 +5,12 @@
 import pandas as pd
 
 column_name_1 = "has_alice"
-column_name_2 = "has_not"
+column_name_2 = "has_en"
 
 column_name = column_name_1 + " xor " + column_name_2
 
 dataset_names = [
-    "companies_true_false_has_not_alice"
+    "sentences_alice"
 ]
 
 datasets = [

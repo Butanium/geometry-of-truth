@@ -7,7 +7,7 @@ import random
 
 
 dataset_names = [
-    "companies_true_false_has_not",
+    "sentences",
 ]
 
 datasets = [
@@ -20,6 +20,8 @@ assert all(len(dataset) == n_statements for dataset in datasets)
 distractor_idxs = []
 for idx in range(2):
     distractor_idxs.extend([idx] * (n_statements // 2))
+if len(distractor_idxs) != n_statements :
+    distractor_idxs.append(1)
 random.shuffle(distractor_idxs)
 
 
