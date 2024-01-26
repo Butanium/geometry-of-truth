@@ -26,6 +26,7 @@ def get_path(
     shuffle=False,
     random_init=False,
     noperiod=False,
+    add_bos=False,
     revision=None,
     output_dir=None,
 ):
@@ -45,6 +46,8 @@ def get_path(
         model_dir = model_dir / "random_init"
     if noperiod:
         model_dir = model_dir / "noperiod"
+    if add_bos:
+        model_dir = model_dir / "add_bos"
     dataset_dir = model_dir / dataset_name
     if layer is None:
         return dataset_dir
@@ -123,6 +126,7 @@ def generate_acts(
     datasets,
     output_dir=None,
     noperiod=False,
+    add_bos=False,
     device="cpu",
     shuffle=False,
     random_init=False,
@@ -148,7 +152,10 @@ def generate_acts(
     for dataset in datasets:
         statements = load_statements(dataset)
         if noperiod:
-            statements = [statement[:-1] for statement in statements]
+            statements = [
+                (tokenizer.bos_token if add_bos else "") + statement[:-1]
+                for statement in statements
+            ]
         layers = (
             layers
             if layers != [-1]
@@ -158,6 +165,7 @@ def generate_acts(
             model_name,
             dataset,
             noperiod=noperiod,
+            add_bos=add_bos,
             shuffle=shuffle,
             random_init=random_init,
             revision=revision,
@@ -195,6 +203,7 @@ def generate_acts(
                 th.save(act, layer_dir / f"batch_{idx}.pt")
                 clean = False
                 idx += len(batch)
+        (save_dir / "generated_complete_marker").touch()
 
 
 def collect_acts(
@@ -205,6 +214,7 @@ def collect_acts(
     scale=False,
     device="cpu",
     noperiod=False,
+    add_bos=False,
     shuffle=False,
     random_init=False,
     revision=None,
@@ -217,21 +227,19 @@ def collect_acts(
         dataset_name,
         layer=layer,
         noperiod=noperiod,
+        add_bos=add_bos,
         shuffle=shuffle,
         random_init=random_init,
         revision=revision,
     )
-    if (
-        not directory.exists()
-        or not any(directory.iterdir())
-        or len(glob(str(directory / "batch_*.pt"))) == 0
-    ):
+    if not directory.exists() or not (directory / "generated_complete_marker").exists():
         generate_acts(
             model_name,
             [layer],
             [dataset_name],
             ROOT / "acts",
             noperiod=noperiod,
+            add_bos=add_bos,
             shuffle=shuffle,
             random_init=random_init,
             device=device,
@@ -282,6 +290,12 @@ if __name__ == "__main__":
         help="Set flag if you don't want to add a period to the end of each statement",
     )
     parser.add_argument(
+        "--add_bos",
+        action="store_true",
+        default=False,
+        help="Set flag if you want to add a bos token to the beginning of each statement",
+    )
+    parser.add_argument(
         "--device",
         default="cpu",
         help="Device to run on. Set to 'auto' to use cuda if available",
@@ -322,6 +336,7 @@ if __name__ == "__main__":
         args.datasets,
         output_dir=args.output_dir,
         noperiod=args.noperiod,
+        add_bos=args.add_bos,
         device=args.device,
         shuffle=args.shuffle,
         random_init=args.random_init,

@@ -20,7 +20,7 @@ p_true = math.sqrt(
 )  # to make the truth of the two statements independent, sample true statements with this probability
 
 ns = {
-    (1, 1): int(p_true ** 2 * args.datapoints),
+    (1, 1): int(p_true**2 * args.datapoints),
     (1, 0): int(p_true * (1 - p_true) * args.datapoints),
     (0, 1): int(p_true * (1 - p_true) * args.datapoints),
     (0, 0): int((1 - p_true) ** 2 * args.datapoints),
@@ -57,7 +57,7 @@ p_true = 1 - math.sqrt(
 )  # to make the truth of the two statements independent, sample true statements with this probability
 
 ns = {
-    (1, 1): int(p_true ** 2 * args.datapoints),
+    (1, 1): int(p_true**2 * args.datapoints),
     (1, 0): int(p_true * (1 - p_true) * args.datapoints),
     (0, 1): int(p_true * (1 - p_true) * args.datapoints),
     (0, 0): int((1 - p_true) ** 2 * args.datapoints),
