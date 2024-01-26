@@ -38,6 +38,8 @@ def xor_results(
     chunk_size=25,
     random_init=False,
     shuffle=False,
+    add_bos=False,
+    noperiod=False,
 ):
     """
     Compute the accuracy of a logistic regression probe on some XOR features
@@ -75,6 +77,8 @@ def xor_results(
                 chunk_size=chunk_size,
                 random_init=checkpoint == "random init",
                 shuffle=checkpoint == "shuffle",
+                add_bos=add_bos,
+                noperiod=noperiod,
             )
     layer_accs = {}
     for layer in layers:
@@ -171,6 +175,18 @@ if __name__ == "__main__":
         default=None,
         help="Seed for experiments",
     )
+    parser.add_argument(
+        "--add-bos",
+        action="store_true",
+        default=False,
+        help="Set flag to add the beginning of sentence token to the input sequences",
+    )
+    parser.add_argument(
+        "--noperiod",
+        action="store_true",
+        default=False,
+        help="Set flag to remove the period token from the input sequences",
+    )
     args = parser.parse_args()
 
     # Get results
@@ -185,6 +201,8 @@ if __name__ == "__main__":
         random_init=args.random_init,
         shuffle=args.shuffle,
         seed=args.seed,
+        add_bos=args.add_bos,
+        noperiod=args.noperiod,
     )
 
     # Save results
