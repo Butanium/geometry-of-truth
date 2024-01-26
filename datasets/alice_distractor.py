@@ -3,49 +3,50 @@ add Alice/Bob to the start of statements in the given datasets
 """
 
 import pandas as pd
-import random
+from pathlib import Path
+from add_names import add_names_to_statements
+from add_distractor import add_distractor
+from add_xor import add_xor_column
+import argparse
 
-distractors = [
-    "banana",
-    "shed",
-]
-n_distractors = len(distractors)
-
-dataset_names = [
-    "cities",
-    "neg_cities",
-    "companies_true_false",
-]
-
-datasets = [
-    pd.read_csv(f"datasets/{dataset_name}.csv") for dataset_name in dataset_names
-]
-
-n_statements = len(datasets[0])
-#assert all(len(dataset) == n_statements for dataset in datasets)
-
-distractor_idxs = []
-for idx in range(2 * n_distractors):
-    distractor_idxs.extend([idx] * (n_statements // (2 * n_distractors)))
-random.shuffle(distractor_idxs)
+ROOT = Path(__file__).parent.resolve()
 
 
-for dataset, name in zip(datasets, dataset_names):
-    statements = []
-    has_alices = []
-    has_bananas = []
-    has_xor = []
-    for (_, row), distractor_idx in zip(dataset.iterrows(), distractor_idxs):
-        alice_bob = "Alice" if distractor_idx % 2 == 0 else "Bob"
-        distractor_real_idx = distractor_idx // 2
+def main():
+    parser = argparse.ArgumentParser(
+        description="Add Alice/Bob to statements in datasets"
+    )
+    parser.add_argument(
+        "--distractors",
+        nargs="+",
+        default=["banana", "shed"],
+        help="List of distractors",
+    )
+    parser.add_argument(
+        "--names", nargs="+", default=["Alice", "Bob"], help="List of names"
+    )
+    parser.add_argument(
+        "--datasets",
+        nargs="+",
+        default=["cities", "neg_cities", "companies_true_false"],
+        help="List of dataset names",
+    )
+    args = parser.parse_args()
 
-        statement = f"{alice_bob}: {row['statement']} {distractors[distractor_real_idx]}"
-        statements.append(statement)
-        has_alices.append(distractor_idx % 2 == 0)
-        has_bananas.append(distractor_real_idx == 0)
-        has_xor.append((distractor_idx % 2 == 0) ^ (distractor_real_idx == 0))
-    dataset["statement"] = statements
-    dataset["has_alice"] = has_alices
-    dataset["has_banana"] = has_bananas
-    dataset["has_alice_xor_has_banana"] = has_xor
-    dataset.to_csv(f"datasets/{name}_alice_banana.csv", index=False)
+    distractors = args.distractors
+    names = args.names
+    dataset_names = args.datasets
+
+    datasets = add_names_to_statements(dataset_names, names)
+    datasets = add_distractor(dataset_names, distractors)
+    for name, distractor in zip(names, distractors):
+        datasets = add_xor_column(
+            dataset_names, [f"has_{name.lower()}", f"has_{distractor.lower()}"]
+        )
+
+    for dataset, name in zip(datasets, dataset_names):
+        dataset.to_csv(ROOT / f"{name}_names_distractors.csv", index=False)
+
+
+if __name__ == "__main__":
+    main()

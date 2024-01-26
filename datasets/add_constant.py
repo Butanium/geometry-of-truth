@@ -3,20 +3,40 @@
 """
 
 import pandas as pd
+from pathlib import Path
+import argparse
+import pandas as pd
+from pathlib import Path
 
-column_name = "has_not"
-constant = False
+ROOT = Path(__file__).parent.resolve()
 
-dataset_names = [
-    "companies_true_false"
-]
 
-datasets = [
-    pd.read_csv(f"datasets/{dataset_name}.csv") for dataset_name in dataset_names
-]
+def add_constant(column_name, constant, dataset_names):
+    ROOT = Path(__file__).parent.resolve()
 
-for dataset, name in zip(datasets, dataset_names):
-    n_rows = len(dataset["statement"])
+    datasets = [
+        pd.read_csv(ROOT / f"{dataset_name}.csv") for dataset_name in dataset_names
+    ]
+    new_datasets = []
+    for dataset in datasets:
+        n_rows = len(dataset["statement"])
+        dataset[column_name] = [constant] * n_rows
+        new_datasets.append(dataset)
 
-    dataset[column_name] = [constant] * n_rows
-    dataset.to_csv(f"datasets/{name}_{column_name}.csv", index=False)
+    return new_datasets
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Add a constant column to dataset")
+    parser.add_argument("column_name", type=str, help="Name of the column to add")
+    parser.add_argument("constant", type=bool, help="Value of the constant")
+    parser.add_argument(
+        "dataset_names", nargs="+", type=str, help="Names of the datasets"
+    )
+
+    args = parser.parse_args()
+
+    datasets = add_constant(args.column_name, args.constant, args.dataset_names)
+
+    for dataset, name in zip(datasets, args.dataset_names):
+        dataset.to_csv(ROOT / f"{name}.csv", index=False)

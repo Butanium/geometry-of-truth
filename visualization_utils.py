@@ -63,7 +63,6 @@ class TruthData:
         arrows=[],
         **kwargs,
     ):
-
         # get pcs for the given datasets
         if pca_datasets is None:
             pca_datasets = self.df.index.levels[0].tolist()
