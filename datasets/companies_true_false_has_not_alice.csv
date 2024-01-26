@@ -1,0 +1,1201 @@
+statement,label,has_not,has_alice,has_alice xor has_not
+Alice: Thermo Fisher Scientific engages in the manufacture and sale of semiconductor products.,0,False,True,True
+"Alice: Anheuser-Busch InBev engages in the exploration, production, refining, marketing and distribution of oil.",0,False,True,True
+Bob: Meta Platforms has headquarters in United States.,1,False,False,False
+Alice: Japan Post Holdings operates in the industry of Drugs & Biotechnology.,0,False,True,True
+"Bob: Merck & Co. engages in the provision of health solutions through its prescription medicines, vaccines, biologic therapies, animal health, and consumer care products.",1,False,False,False
+Bob: SK Hynix is an investment company that engages in the provision of value-added services and online advertising services.,0,False,False,False
+"Bob: Enel engages in global investment banking, securities and investment management, which provides financial services.",0,False,False,False
+Alice: Bank of Montreal has headquarters in Canada.,1,False,True,True
+Alice: Morgan Stanley has headquarters in United States.,1,False,True,True
+Bob: Cathay Financial operates in the industry of Chemicals.,0,False,False,False
+Alice: Generali Group has headquarters in Switzerland.,0,False,True,True
+Alice: AT&T operates in the industry of Trading Companies.,0,False,True,True
+Bob: Poly Developments & Holdings Group has headquarters in China.,1,False,False,False
+Alice: Ping An Insurance (Group) Company of China engages in the provision of financial products and services.,1,False,True,True
+Bob: Sumitomo Mitsui Financial has headquarters in China.,0,False,False,False
+Bob: Manulife operates in the industry of insurance.,1,False,False,False
+"Bob: China Petroleum & Chemical engages in the exploration, development and production of crude oil and natural gas.",1,False,False,False
+Alice: National Australia Bank operates in the industry of banking.,1,False,True,True
+Alice: PepsiCo has headquarters in United States.,1,False,True,True
+Alice: Lloyds Banking Group operates in the industry of banking.,1,False,True,True
+Bob: Bayerische Motoren Werke (BMW) engages in the manufacture and sale of automobiles and motorcycles.,1,False,False,False
+"Bob: Telefonica engages in the provision of communication, information and entertainment solutions.",1,False,False,False
+Bob: BASF engages in the provision of chemical products.,1,False,False,False
+Bob: KDDI operates in the industry of Materials.,0,False,False,False
+Bob: Lowe's engages in the provision of telecommunication services.,0,False,False,False
+Alice: KDDI has headquarters in India.,0,False,True,True
+"Alice: Capital One engages in the provision of corporate and personal banking services, financial lease, assets custody services and conducting treasury business.",0,False,True,True
+"Bob: BHP Group engages in the exploration, development, production, and processing of iron ore, metallurgical coal, and copper.",1,False,False,False
+Bob: Charter Communications operates in the industry of Oil & Gas Operations.,0,False,False,False
+Bob: Novartis operates in the industry of Banking.,0,False,False,False
+Bob: Manulife has headquarters in Canada.,1,False,False,False
+Bob: Citigroup has headquarters in United States.,1,False,False,False
+Bob: Dow operates in the industry of chemicals.,1,False,False,False
+Bob: Telefonica has headquarters in Spain.,1,False,False,False
+Bob: BHP Group has headquarters in Canada.,0,False,False,False
+Alice: JPMorgan Chase has headquarters in China.,0,False,True,True
+Alice: Sberbank has headquarters in Russia.,1,False,True,True
+Bob: Honda Motor operates in the industry of consumer durables.,1,False,False,False
+Alice: ConocoPhillips has headquarters in United States.,1,False,True,True
+"Alice: CITIC engages in the following business activities: housing construction, real estate development and investment, infrastructure construction and investment, prospecting and design, and overseas industries.",0,False,True,True
+Bob: RBC operates in the industry of banking.,1,False,False,False
+Bob: China Citic Bank operates in the industry of banking.,1,False,False,False
+Alice: Itau Unibanco Holding has headquarters in Brazil.,1,False,True,True
+Bob: VINCI operates in the industry of construction.,1,False,False,False
+Alice: Petrobras has headquarters in Brazil.,1,False,True,True
+Bob: Morgan Stanley has headquarters in South Korea.,0,False,False,False
+Alice: Caterpillar operates in the industry of Trading Companies.,0,False,True,True
+"Alice: Anglo American is a mining company, which engages in the exploration and mining of precious base metals and ferrous metals.",1,False,True,True
+"Alice: Equinor is an investment holding company that engages in the exploration, development, production and sale of crude oil, natural gas and other petroleum products through its subsidiaries.",0,False,True,True
+Bob: ENGIE engages in the provision of banking and financial services.,0,False,False,False
+Alice: Deutsche Post operates in the industry of Consumer Durables.,0,False,True,True
+Alice: Brookfield Asset Management has headquarters in United States.,0,False,True,True
+Alice: Mercedes-Benz Group has headquarters in United States.,0,False,True,True
+Bob: Enel operates in the industry of electricity & gas.,1,False,False,False
+Bob: Wells Fargo operates in the industry of banking.,1,False,False,False
+Bob: Munich Reinsurance operates in the industry of insurance.,1,False,False,False
+Alice: Capital One has headquarters in India.,0,False,True,True
+Alice: Telefonica has headquarters in France.,0,False,True,True
+Alice: Shanghai Pudong Development Bank operates in the industry of Banking.,0,False,True,True
+Bob: Hon Hai Precision operates in the industry of technology hardware & equipment.,1,False,False,False
+"Bob: Morgan Stanley is a holding company, which engages in the provision of a portfolio of transportation, e-commerce, and business services.",0,False,False,False
+Bob: Bank of China engages in the provision of banking and financial services.,1,False,False,False
+Bob: America Movil engages in the provision of telecommunications services.,1,False,False,False
+Alice: Alibaba Group operates in the industry of retailing.,1,False,True,True
+Alice: Bank of Communications engages in the provision of banking and financial services.,1,False,True,True
+Alice: Mitsubishi operates in the industry of Banking.,0,False,True,True
+Alice: China Life Insurance has headquarters in China.,1,False,True,True
+Bob: Sberbank has headquarters in France.,0,False,False,False
+Bob: Walmart has headquarters in Taiwan.,0,False,False,False
+Bob: Walgreens has headquarters in China.,0,False,False,False
+"Alice: PepsiCo operates in the industry of food, drink & tobacco.",1,False,True,True
+"Alice: Agricultural Bank of China operates in the industry of Food, Drink & Tobacco.",0,False,True,True
+Alice: Walmart operates in the industry of retailing.,1,False,True,True
+Bob: HDFC Bank operates in the industry of Banking.,0,False,False,False
+Alice: Johnson & Johnson has headquarters in Hong Kong.,0,False,True,True
+Bob: State Bank of India engages in the provision of commercial banking services.,1,False,False,False
+"Alice: Novartis is a holding company, which engages in the development, manufacture, and marketing of healthcare products.",1,False,True,True
+Alice: Lowe's has headquarters in United States.,1,False,True,True
+Alice: UnitedHealth Group has headquarters in United States.,1,False,True,True
+Alice: British American Tobacco has headquarters in United States.,1,False,True,True
+Bob: Nestle operates in the industry of Banking.,0,False,False,False
+Bob: Shell operates in the industry of oil & gas operations.,1,False,False,False
+Alice: China Vanke engages in the development and sale of properties.,1,False,True,True
+Alice: Sberbank operates in the industry of banking.,1,False,True,True
+"Alice: Sumitomo Mitsui Financial engages in the ownership and operation of assets of its shareholder and clients with a focus on real estate, renewable power, infrastructure and private equity.",0,False,True,True
+Bob: Deutsche Post operates in the industry of transportation.,1,False,False,False
+Alice: PetroChina engages in the provision of innovative memory and storage solutions.,0,False,True,True
+Alice: Costco Wholesale has headquarters in Russia.,0,False,True,True
+Bob: Apple has headquarters in United States.,1,False,False,False
+Alice: BNP Paribas has headquarters in China.,0,False,True,True
+"Bob: Accenture engages in the provision of management consulting, technology, and outsourcing services.",1,False,False,False
+Alice: Raytheon Technologies has headquarters in China.,0,False,True,True
+Alice: Goldman Sachs Group is a holding company that engages in the provision of telecommunications media and technology service.,0,False,True,True
+Bob: Volkswagen Group engages in the production and sale of passenger cars and light commercial vehicles.,1,False,False,False
+Bob: HCA Healthcare has headquarters in United Kingdom.,0,False,False,False
+Bob: Intesa Sanpaolo has headquarters in Italy.,1,False,False,False
+Bob: Tokio Marine Holdings operates in the industry of Retailing.,0,False,False,False
+Alice: Bank of Nova Scotia has headquarters in Canada.,1,False,True,True
+"Alice: Santander is a banking services company, which engages in the provision of banking services to individuals, companies, and institutions.",1,False,True,True
+"Bob: Deutsche Post engages in the design, manufacture, and sale of smartphones, personal computers, tablets, wearables and accessories, and other variety of related services.",0,False,False,False
+Alice: General Motors operates in the industry of consumer durables.,1,False,True,True
+Bob: Amazon.com operates in the industry of retailing.,1,False,False,False
+Alice: GlaxoSmithKline is a holding company that engages in the provision of financial management solutions.,0,False,True,True
+Alice: Costco Wholesale operates in the industry of retailing.,1,False,True,True
+"Alice: Deere & Company engages in the manufacturing and distribution of equipment used in agriculture, construction, forestry, and turf care.",1,False,True,True
+Bob: Mitsubishi engages in the provision of services utilizing the function of general trading.,1,False,False,False
+"Alice: Westpac Banking is an investment holding company, which engages in the provision of life insurance.",0,False,True,True
+Alice: Alibaba Group engages in providing online and mobile marketplaces in retail and wholesale trade.,1,False,True,True
+Bob: Eni has headquarters in Italy.,1,False,False,False
+Bob: Dow has headquarters in United States.,1,False,False,False
+Alice: Mitsubishi UFJ Financial Group operates in the industry of Banking.,0,False,True,True
+Alice: Cathay Financial has headquarters in Taiwan.,1,False,True,True
+Alice: China Construction Bank operates in the industry of Telecommunications Services.,0,False,True,True
+Alice: Prudential Financial operates in the industry of diversified financials.,1,False,True,True
+Alice: Linde engages in the production and distribution of industrial gases.,1,False,True,True
+Bob: United Parcel Service engages in the provision of telecommunication services.,0,False,False,False
+"Alice: Broadcom is a global technology company, which designs, develops and supplies semiconductor and infrastructure software solutions.",1,False,True,True
+Alice: American Express operates in the industry of Consumer Durables.,0,False,True,True
+Alice: Postal Savings Bank of China operates in the industry of Consumer Durables.,0,False,True,True
+"Alice: Sberbank engages in the provision of a range of property casualty insurance, life insurance, retirement products, and other financial services to commercial and individual customers.",0,False,True,True
+Alice: Mitsubishi has headquarters in Japan.,1,False,True,True
+Bob: Canadian Imperial Bank of Commerce operates in the industry of Materials.,0,False,False,False
+Bob: Bank of Nova Scotia has headquarters in Taiwan.,0,False,False,False
+Bob: Mercedes-Benz Group has headquarters in Germany.,1,False,False,False
+Alice: U.S. Bancorp has headquarters in South Korea.,0,False,True,True
+Alice: Roche Holding operates in the industry of drugs & biotechnology.,1,False,True,True
+Bob: Rio Tinto operates in the industry of materials.,1,False,False,False
+"Alice: Taiwan Semiconductor Manufacturing Company engages in the design, development, manufacture, and sale of fully electric vehicles, energy generation and storage systems.",0,False,True,True
+Alice: Tencent Holdings has headquarters in China.,1,False,True,True
+Alice: Capital One operates in the industry of banking.,1,False,True,True
+Alice: MetLife engages in owning and operating of general merchandise stores.,0,False,True,True
+Bob: Siemens operates in the industry of Oil & Gas Operations.,0,False,False,False
+Bob: Hon Hai Precision has headquarters in Taiwan.,1,False,False,False
+Bob: Mitsubishi operates in the industry of trading companies.,1,False,False,False
+"Bob: China Shenhua Energy engages in the production and marketing of metal, mineral, and energy and agricultural commodities.",0,False,False,False
+Alice: Procter & Gamble engages in the provision of branded consumer packaged goods.,1,False,True,True
+Bob: SoftBank operates in the industry of telecommunications services.,1,False,False,False
+Alice: Postal Savings Bank of China operates in the industry of banking.,1,False,True,True
+"Alice: Moller - Maersk engages in shipping, energy, transportation, offshore drilling, and retail activities.",1,False,True,True
+Bob: Wells Fargo has headquarters in Saudi Arabia.,0,False,False,False
+"Alice: Charter Communications engages in the provision of financial products and services, including personal, commercial, corporate, and investment banking.",0,False,True,True
+Bob: UBS Group is a holding company that engages in the provision of financial management solutions.,1,False,False,False
+"Alice: Exxon Mobil engages in the exploration, development, and distribution of oil, gas, and petroleum products.",1,False,True,True
+Bob: China Shenhua Energy operates in the industry of Transportation.,0,False,False,False
+"Alice: Apple engages in the design, manufacture, and sale of smartphones, personal computers, tablets, wearables and accessories, and other variety of related services.",1,False,True,True
+"Bob: Anheuser-Busch InBev operates in the industry of food, drink & tobacco.",1,False,False,False
+Alice: The Home Depot is the world's largest home improvement specialty retailer.,1,False,True,True
+"Alice: Alibaba Group engages in the manufacture and sale of automobiles, motorcycles and power products.",0,False,True,True
+Alice: Chevron has headquarters in Germany.,0,False,True,True
+Bob: Banco Bradesco operates in the industry of banking.,1,False,False,False
+Bob: UnitedHealth Group operates in the industry of Diversified Financials.,0,False,False,False
+"Bob: Caterpillar engages in the manufacture of construction and mining equipment, diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives.",1,False,False,False
+Bob: Agricultural Bank of China operates in the industry of banking.,1,False,False,False
+Bob: CVS Health operates in the industry of retailing.,1,False,False,False
+Alice: UnitedHealth Group has headquarters in Hong Kong.,0,False,True,True
+Bob: Ping An Insurance (Group) Company of China has headquarters in France.,0,False,False,False
+"Alice: Ford Motor engages in the manufacture, distribution and sale of automobiles.",1,False,True,True
+Alice: PNC Financial Services operates in the industry of Aerospace & Defense.,0,False,True,True
+Bob: BNP Paribas engages in the provision of banking and financial services.,1,False,False,False
+"Alice: Volkswagen Group operates as a bank holding company that offers financial services, including lending and depository services, cash management, foreign exchange and trust and investment management.",0,False,True,True
+Bob: AbbVie (ABBV) has headquarters in United States.,1,False,False,False
+Alice: Generali Group engages in the provision of insurance and financial products.,1,False,True,True
+Bob: Taiwan Semiconductor Manufacturing Company operates in the industry of Chemicals.,0,False,False,False
+Alice: Sony operates in the industry of Banking.,0,False,True,True
+Bob: Abbott Laboratories has headquarters in United States.,1,False,False,False
+Bob: Wells Fargo has headquarters in United States.,1,False,False,False
+Alice: Stellantis has headquarters in United States.,0,False,True,True
+Alice: Oracle operates in the industry of Consumer Durables.,0,False,True,True
+Bob: Industrial Bank has headquarters in China.,1,False,False,False
+Bob: CVS Health has headquarters in Canada.,0,False,False,False
+Alice: Exxon Mobil operates in the industry of Household & Personal Products.,0,False,True,True
+Alice: Enbridge operates in the industry of Insurance.,0,False,True,True
+"Alice: Pfizer engages in the discovery, development, manufacturing, marketing, distribution, and selling of biopharmaceutical products worldwide.",1,False,True,True
+Alice: Thermo Fisher Scientific has headquarters in South Korea.,0,False,True,True
+Alice: AT&T engages in business of product trading and business investment activities.,0,False,True,True
+Alice: Mitsubishi UFJ Financial Group has headquarters in Canada.,0,False,True,True
+Alice: Volkswagen Group operates in the industry of consumer durables.,1,False,True,True
+Bob: Reliance Industries operates in the industry of Semiconductors.,0,False,False,False
+Bob: JPMorgan Chase operates as a holding company that engages in the management of its group companies.,0,False,False,False
+Bob: Fubon Financial engages in the provision of financial services.,1,False,False,False
+Bob: Generali Group has headquarters in Italy.,1,False,False,False
+Bob: ArcelorMittal has headquarters in Canada.,0,False,False,False
+"Bob: Barclays operates as a bank holding company that engages in the business of providing retail banking, credit cards, corporate and investment banking and wealth management services.",1,False,False,False
+Alice: Postal Savings Bank of China has headquarters in United States.,0,False,True,True
+Bob: MetLife has headquarters in United States.,1,False,False,False
+Bob: Capital One operates as a financial holding company that engages in the provision of financial products and services.,1,False,False,False
+Bob: Itochu engages in business of product trading and business investment activities.,1,False,False,False
+Alice: Deere & Company has headquarters in United States.,1,False,True,True
+"Bob: Goldman Sachs Group engages in global investment banking, securities and investment management, which provides financial services.",1,False,False,False
+Alice: Toyota Motor operates in the industry of Banking.,0,False,True,True
+Alice: Anthem engages in the provision of products and services that address all aspects of corporate information technology environments.,0,False,True,True
+Alice: Sumitomo Mitsui Financial operates in the industry of banking.,1,False,True,True
+Bob: LVMH Moet Hennessy Louis Vuitton operates in the industry of household & personal products.,1,False,False,False
+"Alice: Munich Reinsurance engages in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products.",0,False,True,True
+"Bob: Broadcom engages in the ownership and operation of assets of its shareholder and clients with a focus on real estate, renewable power, infrastructure and private equity.",0,False,False,False
+Bob: Public Joint Stock Company Gazprom operates in the industry of oil & gas operations.,1,False,False,False
+Bob: Nestle has headquarters in Switzerland.,1,False,False,False
+"Bob: IBM is an information technology company, which provides integrated solutions that leverage information technology and knowledge of business processes.",1,False,False,False
+Bob: MetLife has headquarters in Australia.,0,False,False,False
+Bob: Target has headquarters in United States.,1,False,False,False
+Bob: Iberdrola operates in the industry of Banking.,0,False,False,False
+"Bob: KDDI engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals.",0,False,False,False
+Alice: SAP has headquarters in Germany.,1,False,True,True
+Alice: Postal Savings Bank of China has headquarters in China.,1,False,True,True
+Alice: China State Construction Engineering has headquarters in China.,1,False,True,True
+"Bob: Univlever engages in the production and marketing of consumer goods in the nutrition, hygiene, and personal care categories.",1,False,False,False
+Bob: Lloyds Banking Group operates in the industry of Consumer Durables.,0,False,False,False
+"Bob: Shell engages in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products.",0,False,False,False
+Alice: Prudential Financial has headquarters in United States.,1,False,True,True
+"Alice: General Motors engages in the designing, manufacturing, and selling of cars, trucks and automobile parts.",1,False,True,True
+Alice: Pfizer has headquarters in United States.,1,False,True,True
+Bob: Nippon Telegraph & Telephone is a holding company that engages in the provision of telecommunication services.,1,False,False,False
+"Alice: Meta Platforms operates in the industry of Food, Drink & Tobacco.",0,False,True,True
+Alice: China Telecom engages in the provision of telecommunication services.,1,False,True,True
+Alice: Walt Disney is a diversified international family entertainment and media enterprise.,1,False,True,True
+Alice: BHP Group has headquarters in Australia.,1,False,True,True
+Alice: Nestle has headquarters in Mexico.,0,False,True,True
+Alice: Intel has headquarters in Russia.,0,False,True,True
+Bob: Nippon Telegraph & Telephone engages in the provision of banking and financial services.,0,False,False,False
+Bob: Goldman Sachs Group operates in the industry of diversified financials.,1,False,False,False
+Bob: ENGIE operates in the industry of Drugs & Biotechnology.,0,False,False,False
+Alice: ConocoPhillips operates in the industry of Semiconductors.,0,False,True,True
+Alice: Barclays operates in the industry of Retailing.,0,False,True,True
+"Bob: Bristol Myers Squibb engages in the discovery, development, licensing, manufacture, marketing, distribution and sale of biopharmaceutical products.",1,False,False,False
+Alice: Amazon.com engages in the manufacture of luxury goods.,0,False,True,True
+"Alice: Target is a holding company, which engages in the provision of financial services.",0,False,True,True
+"Bob: Nestle engages in the production and distribution of cars, trucks and vans.",0,False,False,False
+"Bob: Ford Motor engages in the exploration, production, transport, refining, and marketing of petroleum and petroleum-derived products.",0,False,False,False
+Bob: Bank of China has headquarters in China.,1,False,False,False
+Bob: Stellantis has headquarters in Netherlands.,1,False,False,False
+"Alice: Sony engages in the development, design, manufacture, and sale of electronic equipment, instruments, devices, game consoles, and software for consumers, professionals and industrial markets.",1,False,True,True
+Bob: Anthem has headquarters in United States.,1,False,False,False
+Bob: IBM has headquarters in United States.,1,False,False,False
+Alice: Eni has headquarters in Switzerland.,0,False,True,True
+Bob: Japan Post Holdings has headquarters in United States.,0,False,False,False
+"Bob: HCA Healthcare is a health care services company, which engages in operating hospitals, freestanding surgery centers and emergency rooms, and urgent care centers.",1,False,False,False
+Alice: Citigroup is a holding company that engages in the provision of financial products and services.,1,False,True,True
+"Bob: Mitsui engages in the designing, manufacturing, and selling of cars, trucks and automobile parts.",0,False,False,False
+Alice: GlaxoSmithKline has headquarters in Germany.,0,False,True,True
+Alice: VINCI operates in the industry of Insurance.,0,False,True,True
+"Bob: UnitedHealth Group engages in the provision of healthcare coverage, software and data consultancy services.",1,False,False,False
+"Alice: Airbus Group engages in the design, manufacture, delivery and provision of aerospace products, space and related services.",1,False,True,True
+Alice: Walt Disney has headquarters in United States.,1,False,True,True
+Alice: Verizon Communications has headquarters in United States.,1,False,True,True
+Bob: Dow has headquarters in Italy.,0,False,False,False
+"Alice: Alphabet is a holding company, which engages in the business of acquisition and operation of different companies.",1,False,True,True
+Bob: Verizon Communications has headquarters in Japan.,0,False,False,False
+Alice: Sberbank operates in the industry of Consumer Durables.,0,False,True,True
+Bob: Dell Technologies has headquarters in France.,0,False,False,False
+Alice: Pfizer engages in the provision of insurance and financial products.,0,False,True,True
+Alice: Lockheed Martin has headquarters in United States.,1,False,True,True
+Alice: Medtronic has headquarters in Ireland.,1,False,True,True
+"Bob: Bank of China engages in the exploration, development, production and sale of crude oil & gas. It also involves in refining, transportation, and sale of petroleum products.",0,False,False,False
+"Alice: Verizon Communications engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals.",0,False,True,True
+Alice: Visa operates in the industry of United States.,0,False,True,True
+Bob: The Home Depot operates in the industry of retailing.,1,False,False,False
+Alice: Oracle operates in the industry of it software & services.,1,False,True,True
+Alice: Itau Unibanco Holding has headquarters in China.,0,False,True,True
+"Alice: Lloyds Banking Group is a financial services company, which engages in the provision of a wide range of banking and financial services.",1,False,True,True
+Alice: Rio Tinto has headquarters in France.,0,False,True,True
+Alice: AT&T operates in the industry of telecommunications services.,1,False,True,True
+Bob: CITIC operates in the industry of Banking.,0,False,False,False
+"Alice: Electricite de France engages in power generation, transmission, distribution, supply and trading activities.",1,False,True,True
+Bob: Brookfield Asset Management operates in the industry of Consumer Durables.,0,False,False,False
+Alice: Merck & Co. has headquarters in Drugs & Biotechnology.,1,False,True,True
+Alice: Credit Agricole has headquarters in France.,1,False,True,True
+Bob: Cathay Financial operates in the industry of insurance.,1,False,False,False
+Bob: Hitachi has headquarters in Japan.,0,False,False,False
+Bob: PNC Financial Services engages in the operation of membership warehouses.,0,False,False,False
+Bob: Samsung Group has headquarters in South Korea.,1,False,False,False
+Bob: Bayerische Motoren Werke (BMW) has headquarters in Germany.,1,False,False,False
+Alice: BHP Group provides insurance and financial services to individual and institutional customers.,0,False,True,True
+Alice: BBVA operates in the industry of banking.,1,False,True,True
+Bob: The Home Depot engages in the provision of telecommunication and information technology services.,0,False,False,False
+Bob: Toyota Motor has headquarters in United States.,0,False,False,False
+"Alice: Iberdrola is a holding company that engages in the generation, distribution, trading and marketing of electricity.",1,False,True,True
+Alice: American Express operates in the industry of diversified financials.,1,False,True,True
+Bob: Moller - Maersk has headquarters in Australia.,0,False,False,False
+Bob: Fubon Financial operates in the industry of insurance.,1,False,False,False
+Alice: AXA operates in the industry of insurance.,1,False,True,True
+Alice: Alphabet operates in the industry of Oil & Gas Operations.,0,False,True,True
+Alice: LVMH Moet Hennessy Louis Vuitton engages in the manufacture of luxury goods.,1,False,True,True
+"Bob: Intel engages in the design, manufacture and sale of computer products and technologies.",1,False,False,False
+Bob: JPMorgan Chase is a financial holding company. It provides financial and investment banking services.,1,False,False,False
+Alice: China Merchants Bank has headquarters in United States.,0,False,True,True
+Alice: Public Joint Stock Company Gazprom has headquarters in Russia.,1,False,True,True
+Bob: Univlever engages in the provision of banking and financial solutions.,0,False,False,False
+Bob: Honeywell operates in the industry of conglomerates.,1,False,False,False
+Bob: Visa has headquarters in United States.,1,False,False,False
+Alice: ENGIE has headquarters in France.,1,False,True,True
+Bob: Industrial Bank operates in the industry of banking.,1,False,False,False
+Bob: Broadcom operates in the industry of semiconductors.,1,False,False,False
+Bob: Hyundai Motor has headquarters in South Korea.,1,False,False,False
+Bob: Rosneft operates in the industry of Gas & Oil Operations.,0,False,False,False
+Alice: BP operates as an integrated oil and gas company.,1,False,True,True
+Alice: Shell has headquarters in Canada.,0,False,True,True
+Alice: Raytheon Technologies has headquarters in United States.,1,False,True,True
+Bob: Walgreens has headquarters in United States.,1,False,False,False
+Alice: Roche Holding has headquarters in Switzerland.,1,False,True,True
+Alice: Ford Motor has headquarters in Japan.,0,False,True,True
+Alice: GlaxoSmithKline has headquarters in United Kingdom.,1,False,True,True
+Alice: Vale operates in the industry of Banking.,0,False,True,True
+Bob: Iberdrola has headquarters in Canada.,0,False,False,False
+Bob: Novartis has headquarters in Japan.,0,False,False,False
+Alice: Saudi Arabian Oil Company (Saudi Aramco) operates in the industry of oil & gas operations.,1,False,True,True
+Alice: CNOOC operates in the industry of oil & gas operations.,1,False,True,True
+Bob: BHP Group operates in the industry of Insurance.,0,False,False,False
+Alice: Ping An Insurance (Group) Company of China operates in the industry of Banking.,0,False,True,True
+Alice: Banco Bradesco engages in the provision of financial and insurance services.,1,False,True,True
+"Alice: Chevron engages in the provision of administrative, financial management and technology support for energy and chemical operations.",1,False,True,True
+Bob: Raytheon Technologies operates in the industry of Banking.,0,False,False,False
+Bob: America Movil has headquarters in Switzerland.,0,False,False,False
+Alice: China Mobile has headquarters in Russia.,0,False,True,True
+Bob: Anglo American operates in the industry of materials.,1,False,False,False
+Alice: U.S. Bancorp operates in the industry of banking.,1,False,True,True
+Alice: Accenture operates in the industry of it software & services.,1,False,True,True
+Bob: UBS Group operates in the industry of Aerospace & Defense.,0,False,False,False
+Bob: Chubb has headquarters in China.,0,False,False,False
+Bob: Brookfield Asset Management operates in the industry of diversified financials.,1,False,False,False
+Bob: Apple engages in the provision of banking and related financial services.,0,False,False,False
+Bob: Procter & Gamble is the world's largest home improvement specialty retailer.,0,False,False,False
+"Alice: Wells Fargo is a diversified, community-based financial services company.",1,False,True,True
+Alice: Charter Communications operates in the industry of media.,1,False,True,True
+Alice: Hon Hai Precision has headquarters in United States.,0,False,True,True
+Bob: SK Hynix operates in the industry of semiconductors.,1,False,False,False
+"Bob: Prudential Financial engages in the provision of financial products and services including life insurance, annuities, mutual funds, and investment management to both individual and institutional customers.",1,False,False,False
+Alice: Honeywell operates in the industry of IT Software & Services.,0,False,True,True
+Alice: China Construction Bank has headquarters in United States.,0,False,True,True
+Bob: Lockheed Martin has headquarters in Ireland.,0,False,False,False
+Alice: Saudi Arabian Oil Company (Saudi Aramco) has headquarters in Saudi Arabia.,1,False,True,True
+Bob: Anthem has headquarters in Spain.,0,False,False,False
+Bob: Visa engages in the provision of insurance and investment advisory services.,0,False,False,False
+Alice: China Telecom has headquarters in Germany.,0,False,True,True
+Bob: Moller - Maersk operates in the industry of transportation.,1,False,False,False
+Bob: Rosneft has headquarters in United States.,0,False,False,False
+Alice: General Motors has headquarters in Drugs & Biotechnology.,0,False,True,True
+Alice: ANZ has headquarters in Australia.,1,False,True,True
+Alice: Shanghai Pudong Development Bank provides banking and financial services.,1,False,True,True
+Bob: Caterpillar has headquarters in Rome.,0,False,False,False
+"Bob: Cisco Systems engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals.",0,False,False,False
+"Alice: Total produces and markets fuels, natural gas and low-carbon electricity.",1,False,True,True
+Bob: PNC Financial Services has headquarters in United States.,1,False,False,False
+Bob: Alibaba Group operates in the industry of Construction.,0,False,False,False
+Alice: Siemens operates in the industry of conglomerates.,1,False,True,True
+"Alice: Eni is a global technology company, which designs, develops and supplies semiconductor and infrastructure software solutions.",0,False,True,True
+Bob: Chevron operates in the industry of Banking.,0,False,False,False
+Alice: Micron Technology has headquarters in United States.,1,False,True,True
+Bob: ENGIE has headquarters in United States.,0,False,False,False
+Bob: Equinor operates in the industry of oil & gas operations.,1,False,False,False
+Alice: CNOOC has headquarters in Japan.,0,False,True,True
+"Bob: Truist Financial operates as a financial holding company, which engages in the provision of banking services to individuals, businesses and municipalities.",1,False,False,False
+Bob: Microsoft operates in the industry of Transportation.,0,False,False,False
+Alice: AIA Group has headquarters in United States.,0,False,True,True
+Bob: Costco Wholesale operates in the industry of Materials.,0,False,False,False
+Bob: BASF is a financial holding company. It provides financial and investment banking services.,0,False,False,False
+"Alice: Siemens engages in property development, commodity residential building distribution, and property management.",0,False,True,True
+Bob: Santander has headquarters in Spain.,1,False,False,False
+Bob: Deutsche Telekom operates as a financial holding company that engages in the provision of financial products and services.,0,False,False,False
+Bob: Visa operates in the industry of business services & supplies.,1,False,False,False
+Alice: America Movil operates in the industry of telecommunications services.,1,False,True,True
+Alice: Apple operates in the industry of Construction.,0,False,True,True
+Alice: PNC Financial Services operates in the industry of banking.,1,False,True,True
+Alice: BlackRock has headquarters in United States.,1,False,True,True
+Bob: Cathay Financial engages in the provision of financial services.,1,False,False,False
+Alice: CNOOC has headquarters in Hong Kong.,1,False,True,True
+Bob: Exxon Mobil has headquarters in United States.,1,False,False,False
+"Alice: China Citic Bank produces and markets fuels, natural gas and low-carbon electricity.",0,False,True,True
+Bob: Costco Wholesale engages in the operation of membership warehouses.,1,False,False,False
+Alice: British American Tobacco operates as a global financial services company.,0,False,True,True
+Alice: Deutsche Telekom engages in the provision of telecommunication and information technology services.,1,False,True,True
+Alice: Bank of America operates in the industry of Aerospace & Defense.,0,False,True,True
+Alice: Saudi Arabian Oil Company (Saudi Aramco) operates in the industry of Trading Companies.,0,False,True,True
+"Bob: BNP Paribas is a financial services company, which engages in the provision of a wide range of banking and financial services.",0,False,False,False
+"Bob: Sony engages in the provision of digital payment services. It also facilitates global commerce through the transfer of value and information among global network of consumers, merchants, financial institutions, businesses, strategic partners, and government entities.",0,False,False,False
+Bob: IBM operates in the industry of Insurance.,0,False,False,False
+Bob: Cathay Financial has headquarters in Russia.,0,False,False,False
+"Bob: Abbott Laboratories is a holding company that engages in the research and development, manufacture and sale of products in the healthcare field.",0,False,False,False
+"Alice: HSBC Holdings is a health care services company, which engages in operating hospitals, freestanding surgery centers and emergency rooms, and urgent care centers.",0,False,True,True
+Bob: Cisco Systems has headquarters in Japan.,0,False,False,False
+Alice: China Vanke has headquarters in Australia.,0,False,True,True
+Bob: Microsoft has headquarters in United States.,1,False,False,False
+Alice: MetLife operates in the industry of insurance.,1,False,True,True
+Bob: Coca-Cola has headquarters in United States.,1,False,False,False
+Bob: Oracle engages in the provision of products and services that address all aspects of corporate information technology environments.,1,False,False,False
+Alice: FedEx has headquarters in United States.,1,False,True,True
+Bob: China Construction Bank operates in the industry of banking.,1,False,False,False
+Bob: LukOil has headquarters in China.,0,False,False,False
+Alice: PepsiCo has headquarters in Australia.,0,False,True,True
+Alice: Deutsche Post has headquarters in Germany.,1,False,True,True
+Bob: AXA engages in providing online and mobile marketplaces in retail and wholesale trade.,0,False,False,False
+Bob: Linde operates in the industry of Construction.,0,False,False,False
+Bob: Tesla has headquarters in Canada.,0,False,False,False
+Alice: Westpac Banking operates in the industry of Consumer Durables.,0,False,True,True
+Bob: SK Hynix operates in the industry of Conglomerates.,0,False,False,False
+"Bob: BlackRock engages in providing investment management, risk management, and advisory services for institutional and retail clients worldwide.",1,False,False,False
+Alice: Thermo Fisher Scientific operates in the industry of healthcare equipment & services.,1,False,True,True
+Alice: ENGIE operates in the industry of oil & gas operations.,1,False,True,True
+Alice: Electricite de France has headquarters in France.,1,False,True,True
+Bob: American International Group operates in the industry of insurance.,1,False,False,False
+"Alice: Vale engages in the production and exportation of iron ore, pellets, manganese and iron alloys, which are raw materials needed for steelmaking.",1,False,True,True
+Bob: Raytheon Technologies engages in the provision of mail and logistics services.,0,False,False,False
+Alice: American International Group has headquarters in Ireland.,0,False,True,True
+Bob: LVMH Moet Hennessy Louis Vuitton has headquarters in Japan.,0,False,False,False
+"Bob: AbbVie (ABBV) is a research-based biopharmaceutical company, which engages in the development and sale of pharmaceutical products.",1,False,False,False
+Alice: Hitachi engages in the manufacture and sale of electrical equipment.,1,False,True,True
+Bob: Shell engages in oil and natural gas production.,1,False,False,False
+Alice: Apple operates in the industry of technology.,1,False,True,True
+Bob: Exxon Mobil has headquarters in Switzerland.,0,False,False,False
+Alice: Citigroup operates in the industry of Telecommunications Services.,0,False,True,True
+"Bob: Electricite de France engages in the production and marketing of metal, mineral, and energy and agricultural commodities.",0,False,False,False
+Alice: Raytheon Technologies operates in the industry of aerospace & defense.,1,False,True,True
+Bob: Barclays operates in the industry of banking.,1,False,False,False
+Alice: Truist Financial operates in the industry of Banking.,0,False,True,True
+Bob: Fubon Financial has headquarters in Taiwan.,1,False,False,False
+"Bob: Mizuho Financial is a banking services company, which engages in the provision of banking services to individuals, companies, and institutions.",0,False,False,False
+Bob: Linde operates in the industry of chemicals.,1,False,False,False
+Alice: Credit Agricole has headquarters in Australia.,0,False,True,True
+Bob: E.ON engages in the provision of energy solutions.,1,False,False,False
+Alice: Toronto-Dominion Bank provides financial products and services.,1,False,True,True
+"Bob: Poly Developments & Holdings Group engages in property development, commodity residential building distribution, and property management.",1,False,False,False
+Bob: Agricultural Bank of China has headquarters in Hong Kong.,0,False,False,False
+Bob: China Life Insurance operates in the industry of insurance.,1,False,False,False
+Alice: ConocoPhillips has headquarters in United Kingdom.,0,False,True,True
+Alice: State Bank of India operates in the industry of Oil & Gas Operations.,0,False,True,True
+"Bob: ANZ provides banking, financial products and services to retail, small business, corporate and institutional clients.",1,False,False,False
+Alice: SAP operates in the industry of it software & services.,1,False,True,True
+Bob: Sanofi engages in the manufacture and sale of semiconductor products.,0,False,False,False
+Alice: Lockheed Martin operates in the industry of aerospace & defense.,1,False,True,True
+Bob: United Parcel Service operates in the industry of Banking.,0,False,False,False
+Bob: Hyundai Motor operates in the industry of Technology.,0,False,False,False
+Bob: Linde has headquarters in United States.,0,False,False,False
+Alice: The Home Depot has headquarters in United States.,1,False,True,True
+"Bob: Lockheed Martin engages in the manufacture, distribution and sale of automobiles.",0,False,False,False
+Alice: American International Group has headquarters in United States.,1,False,True,True
+Bob: Honeywell has headquarters in United States.,1,False,False,False
+Bob: CVS Health engages in the provision of financial products and services.,0,False,False,False
+Alice: National Australia Bank has headquarters in Australia.,1,False,True,True
+Bob: Goldman Sachs Group has headquarters in United States.,1,False,False,False
+Bob: PetroChina operates in the industry of Insurance.,0,False,False,False
+Alice: Glencore operates in the industry of Telecommunications Services.,0,False,True,True
+Bob: Oracle has headquarters in United States.,1,False,False,False
+Bob: HSBC Holdings has headquarters in United Kingdom.,1,False,False,False
+Alice: Alphabet operates in the industry of it software & services.,1,False,True,True
+"Alice: CNOOC is a diversified, community-based financial services company.",0,False,True,True
+Bob: National Australia Bank operates in the industry of Media.,0,False,False,False
+"Alice: Chubb engages in the discovery, development, licensing, manufacture, marketing, distribution and sale of biopharmaceutical products.",0,False,True,True
+"Bob: China Mobile engages in the manufacture, marketing, distribution and sale of beverages, food, and snacks.",0,False,False,False
+"Bob: Johnson & Johnson is a holding company that engages in the research and development, manufacture and sale of products in the healthcare field.",1,False,False,False
+Bob: Dell Technologies operates in the industry of Media.,0,False,False,False
+Bob: Sberbank provides commercial banking and financial services.,1,False,False,False
+Bob: Pfizer has headquarters in China.,0,False,False,False
+"Bob: Brookfield Asset Management engages in the ownership and operation of assets of its shareholder and clients with a focus on real estate, renewable power, infrastructure and private equity.",1,False,False,False
+Alice: Bank of Communications has headquarters in China.,1,False,True,True
+Alice: Toronto-Dominion Bank operates in the industry of banking.,1,False,True,True
+Bob: Toronto-Dominion Bank has headquarters in United States.,0,False,False,False
+Alice: ANZ operates in the industry of Semiconductors.,0,False,True,True
+Alice: Industrial and Commercial Bank of China has headquarters in Germany.,0,False,True,True
+Alice: Bank of America has headquarters in United States.,1,False,True,True
+Alice: SK Hynix has headquarters in China.,0,False,True,True
+Bob: Alibaba Group has headquarters in China.,1,False,False,False
+"Alice: Bank of America is a holding company that engages in the generation, distribution, trading and marketing of electricity.",0,False,True,True
+"Alice: ENGIE engages in the provision of electricity, natural gas, and energy related services.",1,False,True,True
+Alice: Poly Developments & Holdings Group operates as a holding company that engages in the provision of insurance and asset management services.,0,False,True,True
+Alice: Deutsche Telekom has headquarters in Germany.,1,False,True,True
+Bob: Mitsubishi UFJ Financial Group has headquarters in Japan.,1,False,False,False
+Alice: National Australia Bank engages in the provision of banking and financial services.,1,False,True,True
+Alice: Sony has headquarters in United States.,0,False,True,True
+"Alice: American International Group engages in the provision of a range of property casualty insurance, life insurance, retirement products, and other financial services to commercial and individual customers.",1,False,True,True
+Alice: Citigroup engages in the provision of banking and related financial services.,0,False,True,True
+Alice: China Life Insurance has headquarters in Germany.,0,False,True,True
+Bob: General Motors has headquarters in United States.,1,False,False,False
+Alice: Bayerische Motoren Werke (BMW) operates in the industry of Insurance.,0,False,True,True
+Bob: AXA has headquarters in France.,1,False,False,False
+Alice: Morgan Stanley operates in the industry of Chemicals.,0,False,True,True
+Alice: China Shenhua Energy has headquarters in China.,1,False,True,True
+Bob: BP engages in the provision of financial products and banking services.,0,False,False,False
+"Alice: Nestle is a nutrition, health and wellness company that engages in the manufacture, supply and production of prepared dishes and cooking aids, milk-based products, pharmaceuticals and ophthalmic goods, baby foods and cereals.",1,False,True,True
+"Bob: Mizuho Financial operates as a holding company which engages in the provision of financial services such as banking, trust banking, securities, and other businesses.",1,False,False,False
+Bob: Tencent Holdings operates in the industry of Retailing.,0,False,False,False
+Bob: Caterpillar operates in the industry of capital goods.,1,False,False,False
+"Bob: Cathay Financial engages in the production and marketing of consumer goods in the nutrition, hygiene, and personal care categories.",0,False,False,False
+Alice: Intesa Sanpaolo operates as a financial holding company that engages in the provision of financial products and services.,0,False,True,True
+Alice: Enbridge has headquarters in United States.,0,False,True,True
+Bob: Accenture has headquarters in United States.,0,False,False,False
+Bob: BBVA has headquarters in Spain.,1,False,False,False
+Bob: Moller - Maersk operates in the industry of IT Software & Services.,0,False,False,False
+Bob: Fubon Financial has headquarters in Canada.,0,False,False,False
+Bob: Target operates in the industry of retailing.,1,False,False,False
+Bob: American Express has headquarters in France.,0,False,False,False
+Alice: Itochu has headquarters in United States.,0,False,True,True
+Bob: Intesa Sanpaolo operates in the industry of Trading Companies.,0,False,False,False
+Bob: Munich Reinsurance has headquarters in Germany.,1,False,False,False
+Alice: Truist Financial has headquarters in United Kingdom.,0,False,True,True
+Bob: Manulife engages in business of product trading and business investment activities.,0,False,False,False
+Alice: Chevron operates in the industry of oil & gas operations.,1,False,True,True
+Bob: Tencent Holdings is an investment company that engages in the provision of value-added services and online advertising services.,1,False,False,False
+Bob: Prudential Financial operates in the industry of Oil & Gas Operations.,0,False,False,False
+Alice: Shanghai Pudong Development Bank operates in the industry of banking.,1,False,True,True
+"Bob: Stellantis operates in the industry of Food, Drink & Tobacco.",0,False,False,False
+"Bob: Honda Motor engages in oil and gas exploration, production, and distribution activities.",0,False,False,False
+Alice: Tencent Holdings operates in the industry of it software & services.,1,False,True,True
+Alice: Ford Motor has headquarters in United States.,1,False,True,True
+Bob: CVS Health operates in the industry of Banking.,0,False,False,False
+Bob: Petrobras has headquarters in France.,0,False,False,False
+Bob: Bank of America operates in the industry of banking.,1,False,False,False
+Alice: Meta Platforms operates as a social networking company worldwide.,1,False,True,True
+Alice: Medtronic operates in the industry of Banking.,0,False,True,True
+Alice: HSBC Holdings has headquarters in United States.,0,False,True,True
+Bob: Lloyds Banking Group has headquarters in United States.,0,False,False,False
+Alice: State Bank of India has headquarters in Spain.,0,False,True,True
+"Bob: Rosneft engages in the exploration, development, production and sale of crude oil & gas. It also involves in refining, transportation, and sale of petroleum products.",1,False,False,False
+Bob: China Vanke has headquarters in China.,1,False,False,False
+"Alice: BlackRock is a mining company, which engages in the exploration and mining of precious base metals and ferrous metals.",0,False,True,True
+Alice: SK Hynix has headquarters in South Korea.,1,False,True,True
+Bob: Total has headquarters in Germany.,0,False,False,False
+Alice: Exxon Mobil operates in the industry of oil & gas operations.,1,False,True,True
+Bob: IBM has headquarters in Germany.,0,False,False,False
+"Alice: Coca-Cola is a nonalcoholic beverage company that engages in the manufacture, market, and sale of non-alcoholic beverages, including sparkling soft drinks, water, sports drinks, tea, coffee and energy drinks.",1,False,True,True
+Bob: Anglo American has headquarters in United Kingdom.,1,False,False,False
+"Bob: Microsoft engages in the development and support of software, services, devices, and solutions.",1,False,False,False
+Alice: Iberdrola operates in the industry of utilities.,1,False,True,True
+Alice: Anheuser-Busch InBev has headquarters in Denmark.,0,False,True,True
+Bob: HSBC Holdings operates in the industry of Oil & Gas Operations.,0,False,False,False
+Bob: China Telecom operates in the industry of telecommunications services.,1,False,False,False
+Alice: Barclays operates as a social networking company worldwide.,0,False,True,True
+"Bob: Japan Post Holdings Japan Post Holdings Co., Ltd. manages its group companies that are engaged in postal, banking, and insurance businesses.",1,False,False,False
+Bob: SoftBank operates as a holding company that engages in the management of its group companies.,1,False,False,False
+Alice: Novartis operates in the industry of drugs & biotechnology.,1,False,True,True
+Alice: Ford Motor operates in the industry of consumer durables.,1,False,True,True
+Bob: E.ON operates in the industry of Insurance.,0,False,False,False
+Bob: Itau Unibanco Holding provides financial products and services to individual and corporate clients in Brazil and abroad.,1,False,False,False
+Bob: Roche Holding operates in the industry of Insurance.,0,False,False,False
+Alice: Industrial and Commercial Bank of China operates in the industry of Banking.,0,False,True,True
+"Alice: China State Construction Engineering engages in the following business activities: housing construction, real estate development and investment, infrastructure construction and investment, prospecting and design, and overseas industries.",1,False,True,True
+Alice: Chevron engages in the provision of insurance and investment advisory services.,0,False,True,True
+Bob: Cigna Corporation operates in the industry of insurance.,1,False,False,False
+Bob: Truist Financial operates in the industry of banking.,1,False,False,False
+"Bob: Reliance Industries engages in hydrocarbon exploration and production, petroleum refining and marketing, petrochemicals, retail and telecommunications.",1,False,False,False
+Bob: Electricite de France operates in the industry of utilities.,1,False,False,False
+Bob: Johnson & Johnson operates in the industry of Consumer Durables.,0,False,False,False
+Bob: BlackRock operates in the industry of diversified financials.,1,False,False,False
+Bob: Vale operates in the industry of materials.,1,False,False,False
+Alice: Procter & Gamble operates in the industry of Diversified Financials.,0,False,True,True
+"Bob: AIA Group is an investment holding company, which engages in the provision of life insurance.",1,False,False,False
+Alice: Dow operates in the industry of Banking.,0,False,True,True
+Alice: LukOil has headquarters in Russia.,1,False,True,True
+Alice: RBC engages in the provision of banking and financial solutions.,1,False,True,True
+Bob: Micron Technology operates in the industry of semiconductors.,1,False,False,False
+Bob: Reliance Industries provides banking and financial services to individuals and institutions.,0,False,False,False
+Bob: Bristol Myers Squibb has headquarters in China.,0,False,False,False
+Alice: Enel has headquarters in Netherlands.,0,False,True,True
+Bob: Tesla engages in the manufacture and sale of automobiles and motorcycles.,0,False,False,False
+Alice: VINCI has headquarters in France.,1,False,True,True
+"Bob: Glencore engages in the production and marketing of metal, mineral, and energy and agricultural commodities.",1,False,False,False
+Alice: JPMorgan Chase has headquarters in United States.,1,False,True,True
+Alice: United Parcel Service operates as a logistics and package delivery company providing supply chain management services.,1,False,True,True
+Bob: Enbridge has headquarters in Canada.,1,False,False,False
+"Alice: Honeywell operates as a bank holding company that offers financial services, including lending and depository services, cash management, foreign exchange and trust and investment management.",0,False,True,True
+"Alice: Equinor engages in the exploration, production, transport, refining, and marketing of petroleum and petroleum-derived products.",1,False,True,True
+"Bob: Glencore engages in the exploration, production, transportation and marketing of crude oil, bitumen, natural gas, natural gas liquids and liquefied natural gas on a worldwide basis.",0,False,False,False
+Bob: Berkshire Hathaway has headquarters in United States.,1,False,False,False
+Alice: JPMorgan Chase operates in the industry of Banking.,0,False,True,True
+Alice: HDFC Bank has headquarters in Australia.,0,False,True,True
+"Alice: American Express engages in the provision of charge and credit card products, and travel-related services.",1,False,True,True
+"Alice: FedEx is a holding company, which engages in the provision of a portfolio of transportation, e-commerce, and business services.",1,False,True,True
+Alice: Sumitomo Mitsui Financial has headquarters in Japan.,1,False,True,True
+Alice: Linde has headquarters in United Kingdom.,1,False,True,True
+"Alice: Tesla engages in the design, development, manufacture, and sale of fully electric vehicles, energy generation and storage systems.",1,False,True,True
+Bob: Toyota Motor has headquarters in Japan.,1,False,False,False
+Bob: China Vanke operates in the industry of construction.,1,False,False,False
+Alice: Total operates in the industry of oil & gas operations.,1,False,True,True
+"Alice: AbbVie (ABBV) engages in the exploration, development, production, and processing of iron ore, metallurgical coal, and copper.",0,False,True,True
+Bob: VINCI has headquarters in South Korea.,0,False,False,False
+Alice: Enel has headquarters in Rome.,1,False,True,True
+Bob: Sumitomo Mitsui Financial operates in the industry of Utilities.,0,False,False,False
+Alice: Lowe's has headquarters in Australia.,0,False,True,True
+"Bob: Honda Motor engages in the manufacture and sale of automobiles, motorcycles and power products.",1,False,False,False
+Alice: HDFC Bank operates in the industry of banking.,1,False,True,True
+"Bob: Rio Tinto provides banking, financial products and services to retail, small business, corporate and institutional clients.",0,False,False,False
+Alice: Truist Financial operates as a research healthcare company.,0,False,True,True
+Alice: Hitachi operates in the industry of conglomerates.,1,False,True,True
+Alice: Bank of Communications has headquarters in United States.,0,False,True,True
+Alice: Sony has headquarters in Japan.,1,False,True,True
+Bob: Vale has headquarters in Brazil.,1,False,False,False
+Alice: Coca-Cola operates in the industry of Oil & Gas Operations.,0,False,True,True
+Bob: BNP Paribas operates in the industry of banking.,1,False,False,False
+Alice: China Merchants Bank engages in the provision of corporate and personal banking services.,1,False,True,True
+"Bob: Medtronic is a medical technology company, which engages in the development, manufacture, distribution, and sale of device-based medical therapies and services.",1,False,False,False
+Bob: HCA Healthcare operates in the industry of health care equipment & services.,1,False,False,False
+Alice: Bayerische Motoren Werke (BMW) engages in the provision of financial and insurance services.,0,False,True,True
+Bob: CITIC has headquarters in Russia.,0,False,False,False
+Alice: LVMH Moet Hennessy Louis Vuitton operates in the industry of Semiconductors.,0,False,True,True
+Alice: Poly Developments & Holdings Group has headquarters in United States.,0,False,True,True
+Bob: Tesla operates in the industry of consumer durables.,1,False,False,False
+"Bob: Siemens is a U.S. subsidiary of Siemens AG, a global powerhouse focusing on the areas of power generation and distribution, intelligent infrastructure for buildings and distributed energy systems, and automation and digitalization in the process and manufacturing industries.",1,False,False,False
+Alice: Industrial and Commercial Bank of China has headquarters in China.,1,False,True,True
+Bob: FedEx is a holding company that engages in the provision of telecommunications media and technology service.,0,False,False,False
+Bob: China Mobile operates as an investment holding company.,1,False,False,False
+Bob: Hyundai Motor has headquarters in China.,0,False,False,False
+Bob: China Petroleum & Chemical has headquarters in China.,1,False,False,False
+Bob: Bank of Montreal operates in the industry of banking.,1,False,False,False
+Alice: Reliance Industries has headquarters in India.,1,False,True,True
+Alice: ING Group has headquarters in Russia.,0,False,True,True
+"Bob: Commonwealth Bank of Australia is a nonalcoholic beverage company that engages in the manufacture, market, and sale of non-alcoholic beverages, including sparkling soft drinks, water, sports drinks, tea, coffee and energy drinks.",0,False,False,False
+"Bob: PepsiCo engages in the manufacture, marketing, distribution and sale of beverages, food, and snacks.",1,False,False,False
+Bob: AIA Group operates in the industry of Electricity & Gas.,0,False,False,False
+"Bob: China Petroleum & Chemical engages in the manufacture, marketing, distribution and sale of beverages, food, and snacks.",0,False,False,False
+Alice: Anheuser-Busch InBev operates in the industry of Insurance.,0,False,True,True
+Alice: Capital One has headquarters in United States.,1,False,True,True
+Alice: Abbott Laboratories operates in the industry of healthcare equipment & services.,1,False,True,True
+Bob: Bank of Communications operates in the industry of Technology.,0,False,False,False
+Alice: Target engages in owning and operating of general merchandise stores.,1,False,True,True
+Alice: Cigna Corporation engages in the provision of global health services.,1,False,True,True
+"Alice: LVMH Moet Hennessy Louis Vuitton is a holding company, which engages in the development, manufacture, and marketing of healthcare products.",0,False,True,True
+Alice: China State Construction Engineering has headquarters in Canada.,0,False,True,True
+Alice: Hitachi engages in the provision of services utilizing the function of general trading.,0,False,True,True
+Alice: Taiwan Semiconductor Manufacturing Company engages in the manufacture and sale of integrated circuits and wafer semiconductor devices.,1,False,True,True
+Bob: Hyundai Motor engages in the manufacture and distribution of motor vehicles and parts.,1,False,False,False
+"Alice: Rosneft is a banking services company, which engages in the provision of banking services to individuals, companies, and institutions.",0,False,True,True
+Bob: Chubb has headquarters in Switzerland.,1,False,False,False
+"Bob: Comcast is a media, entertainment and communications company that engages in the provision of video, Internet and phone services.",1,False,False,False
+Alice: SoftBank engages in the provision of insurance and investment advisory services.,0,False,True,True
+Bob: Honeywell has headquarters in Taiwan.,0,False,False,False
+Alice: Electricite de France operates in the industry of Materials.,0,False,True,True
+Alice: United Parcel Service operates in the industry of transportation.,1,False,True,True
+Alice: Comcast operates in the industry of media.,1,False,True,True
+Bob: China Shenhua Energy has headquarters in Japan.,0,False,False,False
+Bob: Agricultural Bank of China has headquarters in China.,1,False,False,False
+Alice: Zurich Insurance engages in the provision of commercial banking and financial services.,0,False,True,True
+Bob: Westpac Banking engages in the provision of banking and financial services.,1,False,False,False
+Bob: AIA Group operates in the industry of insurance.,1,False,False,False
+Bob: Tesla has headquarters in United States.,1,False,False,False
+Alice: Munich Reinsurance engages in the provision of insurance and reinsurance services.,1,False,True,True
+Bob: Ping An Insurance (Group) Company of China operates in the industry of insurance.,1,False,False,False
+Bob: Telefonica engages in the provision of insurance and financial products.,0,False,False,False
+Alice: Procter & Gamble operates in the industry of household & personal products.,1,False,True,True
+"Alice: Lockheed Martin operates as a global security and aerospace company, which engages in the research, design, development, manufacture, integration, and sustainment of technology systems, products, and services.",1,False,True,True
+"Bob: Comcast engages in the production and marketing of metal, mineral, and energy and agricultural commodities.",0,False,False,False
+Bob: Bayerische Motoren Werke (BMW) operates in the industry of consumer durables.,1,False,False,False
+Alice: SoftBank has headquarters in Japan.,1,False,True,True
+Bob: ArcelorMittal operates in the industry of Gas & Oil Operations.,0,False,False,False
+Alice: Micron Technology operates as a logistics and package delivery company providing supply chain management services.,0,False,True,True
+Alice: Nippon Telegraph & Telephone operates in the industry of telecommunications services.,1,False,True,True
+Alice: Canadian Imperial Bank of Commerce engages in the provision of banking and financial services.,0,False,True,True
+Alice: Charter Communications has headquarters in United States.,1,False,True,True
+Bob: Zurich Insurance operates in the industry of insurance.,1,False,False,False
+Bob: Micron Technology has headquarters in France.,0,False,False,False
+Bob: Mizuho Financial operates in the industry of banking.,1,False,False,False
+Bob: Stellantis operates in the industry of consumer durables.,1,False,False,False
+Bob: Capital One operates in the industry of IT Software & Services.,0,False,False,False
+Alice: Reliance Industries has headquarters in Canada.,0,False,True,True
+"Alice: Public Joint Stock Company Gazprom is a global energy company that engages in geological exploration, production, transportation, storage, processing and sales of gas, gas condensate and oil.",1,False,True,True
+Alice: Lowe's engages in the retail sale of home improvement products.,1,False,True,True
+Alice: Westpac Banking has headquarters in Brazil.,0,False,True,True
+Bob: PepsiCo operates in the industry of Insurance.,0,False,False,False
+Alice: Credit Agricole operates in the industry of banking.,1,False,True,True
+Alice: Barclays has headquarters in Russia.,0,False,True,True
+Bob: Zurich Insurance has headquarters in China.,0,False,False,False
+Alice: Nippon Telegraph & Telephone has headquarters in Germany.,0,False,True,True
+Alice: Ping An Insurance (Group) Company of China has headquarters in China.,1,False,True,True
+Bob: Bank of America has headquarters in Norway.,0,False,False,False
+Bob: Volkswagen Group operates in the industry of Telecommunications Services.,0,False,False,False
+Bob: HSBC Holdings operates in the industry of banking.,1,False,False,False
+Alice: BBVA operates in the industry of Household & Personal Products.,0,False,True,True
+"Bob: British American Tobacco operates in the industry of food, drink & tobacco.",1,False,False,False
+Alice: Bristol Myers Squibb engages in the provision of global health services.,0,False,True,True
+Bob: Walt Disney operates in the industry of Aerospace & Defense.,0,False,False,False
+Alice: Costco Wholesale has headquarters in United States.,1,False,True,True
+Alice: HSBC Holdings engages in the provision of banking and financial services.,1,False,True,True
+Alice: Linde engages in owning and operating of general merchandise stores.,0,False,True,True
+Bob: Iberdrola has headquarters in Spain.,1,False,False,False
+Bob: China Merchants Bank has headquarters in China.,1,False,False,False
+"Bob: Allianz is a media, entertainment and communications company that engages in the provision of video, Internet and phone services.",0,False,False,False
+Bob: Industrial and Commercial Bank of China engages in the provision of commercial banking and financial services.,1,False,False,False
+"Alice: Total engages in the design, development and manufacturing of nanotechnology, heat transfer, wireless connectivity and material sciences products.",0,False,True,True
+Alice: Deutsche Post engages in the provision of mail and logistics services.,1,False,True,True
+Alice: Meta Platforms has headquarters in Hong Kong.,0,False,True,True
+Alice: AXA operates in the industry of Semiconductors.,0,False,True,True
+Bob: ArcelorMittal operates in the industry of materials.,1,False,False,False
+Alice: Intel has headquarters in United States.,1,False,True,True
+Alice: CITIC has headquarters in Hong Kong.,1,False,True,True
+Alice: Samsung Group has headquarters in United States.,0,False,True,True
+Bob: Bayerische Motoren Werke (BMW) has headquarters in Australia.,0,False,False,False
+Alice: Itochu operates in the industry of trading companies.,1,False,True,True
+Bob: Duke Energy operates in the industry of utilities.,1,False,False,False
+"Bob: Abbott Laboratories engages in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products.",1,False,False,False
+"Bob: Novartis operates as a medical company, which designs, manufactures, and markets professional, medical, industrial and commercial products and services.",0,False,False,False
+Alice: UBS Group has headquarters in United States.,0,False,True,True
+Bob: Credit Agricole operates in the industry of Banking.,0,False,False,False
+Bob: Ford Motor operates in the industry of Chemicals.,0,False,False,False
+Bob: Petrobras operates in the industry of Retailing.,0,False,False,False
+Alice: Rosneft has headquarters in Russia.,1,False,True,True
+Alice: Mitsui operates in the industry of trading companies.,1,False,True,True
+"Bob: Petrobras engages in oil and gas exploration, production, and distribution activities.",1,False,False,False
+Bob: Apple has headquarters in Canada.,0,False,False,False
+Bob: Glencore has headquarters in China.,0,False,False,False
+"Bob: Verizon Communications is a holding company that engages in the provision of communications, information and entertainment products and services to consumers, businesses and governmental agencies.",1,False,False,False
+"Bob: Dell Technologies is a holding company, which engages in the provision of information technology hardware, software, and service solutions through its subsidiaries.",1,False,False,False
+Bob: Manulife has headquarters in Russia.,0,False,False,False
+Alice: Dell Technologies has headquarters in United States.,1,False,True,True
+Bob: Samsung Group operates in the industry of technology.,1,False,False,False
+Alice: Bank of Montreal provides banking and financial services to individuals and institutions.,1,False,True,True
+"Bob: Saudi Arabian Oil Company (Saudi Aramco) engages in the exploration, development and production of crude oil and natural gas.",0,False,False,False
+Bob: FedEx operates in the industry of Insurance.,0,False,False,False
+Alice: American Express has headquarters in United States.,1,False,True,True
+Bob: Hitachi operates in the industry of Health Care Equipment & Services.,0,False,False,False
+Bob: Univlever has headquarters in United Kingdom.,1,False,False,False
+Alice: Toyota Motor engages in the manufacture and sale of motor vehicles and parts.,1,False,True,True
+Alice: Roche Holding has headquarters in United States.,0,False,True,True
+Alice: BNP Paribas operates in the industry of Banking.,0,False,True,True
+Bob: AT&T has headquarters in Switzerland.,0,False,False,False
+Bob: ING Group operates in the industry of diversified financials.,1,False,False,False
+Bob: Danaher operates in the industry of conglomerates.,1,False,False,False
+Alice: BP operates in the industry of Consumer Durables.,0,False,True,True
+Alice: ANZ operates in the industry of banking.,1,False,True,True
+Alice: Abbott Laboratories operates in the industry of Consumer Durables.,0,False,True,True
+"Alice: China Life Insurance engages in the provision of life, annuity, accident, and health insurance.",1,False,True,True
+Bob: Eni operates in the industry of Banking.,0,False,False,False
+"Alice: Brookfield Asset Management engages in the production and marketing of consumer goods in the nutrition, hygiene, and personal care categories.",0,False,True,True
+"Bob: Banco Bradesco is a holding company, which engages in the provision of financial services.",0,False,False,False
+Alice: Procter & Gamble has headquarters in United States.,1,False,True,True
+Alice: Honda Motor has headquarters in United States.,0,False,True,True
+Alice: Enel operates in the industry of Trading Companies.,0,False,True,True
+Bob: Sanofi operates in the industry of Construction.,0,False,False,False
+"Bob: Cigna Corporation is a medical technology company, which engages in the development, manufacture, distribution, and sale of device-based medical therapies and services.",0,False,False,False
+Bob: America Movil has headquarters in Mexico.,1,False,False,False
+Bob: BP has headquarters in France.,0,False,False,False
+Bob: Walt Disney operates in the industry of media.,1,False,False,False
+Alice: Shell has headquarters in Netherlands.,1,False,True,True
+Bob: Total has headquarters in France.,1,False,False,False
+Bob: RBC has headquarters in Canada.,1,False,False,False
+"Bob: Costco Wholesale is a medical technology company, which engages in the development, manufacture, distribution, and sale of device-based medical therapies and services.",0,False,False,False
+Bob: Bank of China has headquarters in France.,0,False,False,False
+Bob: LukOil operates in the industry of oil & gas operations.,1,False,False,False
+Alice: Micron Technology operates in the industry of Banking.,0,False,True,True
+"Bob: Intel is a holding company, which engages in steelmaking and mining activities.",0,False,False,False
+Bob: Shanghai Pudong Development Bank has headquarters in United States.,0,False,False,False
+Alice: State Bank of India has headquarters in India.,1,False,True,True
+Alice: Duke Energy engages in distribution of natural gas and energy related services.,1,False,True,True
+Alice: Anglo American operates in the industry of Construction.,0,False,True,True
+"Alice: Nestle operates in the industry of food, drink & tobacco.",1,False,True,True
+Bob: Rio Tinto operates in the industry of Oil & Gas Operations.,0,False,False,False
+Alice: China Life Insurance operates in the industry of Utilities.,0,False,True,True
+Alice: Mitsui has headquarters in Japan.,1,False,True,True
+Alice: Dell Technologies operates in the industry of technology hardware & equipment.,1,False,True,True
+Alice: Generali Group operates in the industry of insurance.,1,False,True,True
+Alice: Toronto-Dominion Bank operates in the industry of Materials.,0,False,True,True
+Alice: Commonwealth Bank of Australia has headquarters in United Kingdom.,0,False,True,True
+Bob: Morgan Stanley operates in the industry of diversified financials.,1,False,False,False
+Bob: Caterpillar engages in the provision of insurance and reinsurance services.,0,False,False,False
+Alice: Airbus Group operates in the industry of Telecommunications Services.,0,False,True,True
+Bob: UnitedHealth Group operates in the industry of insurance.,1,False,False,False
+Bob: Mizuho Financial operates in the industry of Insurance.,0,False,False,False
+Bob: Chubb operates in the industry of Banking.,0,False,False,False
+"Bob: Anheuser-Busch InBev operates as a holding company, which engages in the manufacture and distribution of alcoholic and non-alcoholic beverages.",1,False,False,False
+Alice: Meta Platforms operates in the industry of it software & services.,1,False,True,True
+"Bob: Eni engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals.",1,False,False,False
+Bob: Merck & Co. operates in the industry of united states.,1,False,False,False
+"Alice: Industrial Bank engages in the provision of corporate and personal banking services, financial lease, assets custody services and conducting treasury business.",1,False,True,True
+Alice: E.ON operates in the industry of utilities.,1,False,True,True
+"Bob: Honeywell is a software industrial company, which offers industry specific solutions to aerospace and automotive products and services.",1,False,False,False
+Alice: Industrial Bank operates in the industry of Telecommunications Services.,0,False,True,True
+Bob: Telefonica operates in the industry of telecommunications services.,1,False,False,False
+"Bob: Zurich Insurance is a holding company, which engages in the provision of insurance products and related services.",1,False,False,False
+Alice: Public Joint Stock Company Gazprom engages in the retail sale of home improvement products.,0,False,True,True
+Bob: Tokio Marine Holdings operates in the industry of insurance.,1,False,False,False
+Alice: Generali Group operates in the industry of Diversified Financials.,0,False,True,True
+Alice: Cigna Corporation has headquarters in Switzerland.,0,False,True,True
+Bob: Johnson & Johnson has headquarters in United States.,1,False,False,False
+Alice: Charles Schwab Corporation operates in the industry of Materials.,0,False,True,True
+Alice: Equinor operates in the industry of Capital Goods.,0,False,True,True
+Alice: Banco Bradesco has headquarters in United States.,0,False,True,True
+Alice: Alphabet has headquarters in United States.,1,False,True,True
+Bob: Itau Unibanco Holding operates in the industry of IT Software & Services.,0,False,False,False
+"Alice: General Motors operates in the industry of Food, Drink & Tobacco.",0,False,True,True
+Bob: Vale engages in the provision of healthcare services.,0,False,False,False
+Bob: Total operates in the industry of Retailing.,0,False,False,False
+Alice: Danaher has headquarters in United States.,1,False,True,True
+Bob: Airbus Group has headquarters in United States.,0,False,False,False
+Bob: VINCI engages in the provision of mail and logistics services.,0,False,False,False
+Bob: Nippon Telegraph & Telephone operates in the industry of Oil & Gas Operations.,0,False,False,False
+Alice: ANZ has headquarters in United States.,0,False,True,True
+Alice: SAP engages in the provision of enterprise application software and software-related services.,1,False,True,True
+"Alice: BBVA engages in the traditional banking businesses of retail banking, asset management, private banking, and wholesale banking.",1,False,True,True
+Bob: AbbVie (ABBV) operates in the industry of Healthcare Equipment & Services.,0,False,False,False
+Bob: Danaher operates in the industry of Chemicals.,0,False,False,False
+Alice: Thermo Fisher Scientific operates in the industry of Consumer Durables.,0,False,True,True
+Bob: Ping An Insurance (Group) Company of China provides commercial banking and financial services.,0,False,False,False
+Alice: Cigna Corporation operates in the industry of Utilities.,0,False,True,True
+Bob: Dell Technologies operates as a logistics and package delivery company providing supply chain management services.,0,False,False,False
+Bob: Berkshire Hathaway operates in the industry of diversified financials.,1,False,False,False
+Bob: KDDI operates in the industry of telecommunications services.,1,False,False,False
+Bob: AIA Group has headquarters in Hong Kong.,1,False,False,False
+"Alice: Deere & Company is a nonalcoholic beverage company that engages in the manufacture, market, and sale of non-alcoholic beverages, including sparkling soft drinks, water, sports drinks, tea, coffee and energy drinks.",0,False,True,True
+Bob: Chevron has headquarters in United States.,1,False,False,False
+Bob: Duke Energy has headquarters in United States.,1,False,False,False
+"Alice: American International Group is a holding company, which engages in the business of acquisition and operation of different companies.",0,False,True,True
+Alice: China State Construction Engineering operates in the industry of construction.,1,False,True,True
+Alice: AbbVie (ABBV) operates in the industry of drugs & biotechnology.,1,False,True,True
+"Alice: Generali Group is a holding company, which engages in the development, manufacture, and marketing of healthcare products.",0,False,True,True
+"Alice: Alphabet engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals.",0,False,True,True
+Alice: Tokio Marine Holdings is an investment company that engages in the provision of value-added services and online advertising services.,0,False,True,True
+Alice: China Citic Bank has headquarters in China.,1,False,True,True
+Alice: State Bank of India operates in the industry of banking.,1,False,True,True
+Bob: Brookfield Asset Management has headquarters in Canada.,1,False,False,False
+Bob: Amazon.com has headquarters in Italy.,0,False,False,False
+Alice: Intel operates in the industry of Banking.,0,False,True,True
+Bob: Westpac Banking has headquarters in Australia.,1,False,False,False
+Bob: Bank of Nova Scotia operates in the industry of IT Software & Services.,0,False,False,False
+Alice: Univlever operates in the industry of household & personal products.,1,False,True,True
+Bob: RBC has headquarters in United States.,0,False,False,False
+Bob: Comcast has headquarters in United States.,1,False,False,False
+Bob: Target has headquarters in Germany.,0,False,False,False
+Alice: KDDI engages in the telecommunications business.,1,False,True,True
+Alice: Telefonica operates in the industry of Banking.,0,False,True,True
+Bob: Chubb operates in the industry of insurance.,1,False,False,False
+Bob: Barclays has headquarters in United Kingdom.,1,False,False,False
+"Bob: America Movil is a holding company, which engages in the provision of a portfolio of transportation, e-commerce, and business services.",0,False,False,False
+Bob: UBS Group has headquarters in Switzerland.,1,False,False,False
+Bob: GlaxoSmithKline operates in the industry of Banking.,0,False,False,False
+Alice: China Shenhua Energy operates in the industry of materials.,1,False,True,True
+Alice: FedEx operates in the industry of transportation.,1,False,True,True
+Bob: Petrobras operates in the industry of oil & gas operations.,1,False,False,False
+"Alice: Berkshire Hathaway provides property and casualty insurance and reinsurance, utilities and energy, freight rail transportation, finance, manufacturing, retailing, and services.",1,False,True,True
+Bob: Volkswagen Group has headquarters in United States.,0,False,False,False
+Alice: Medtronic operates in the industry of health care equipment & services.,1,False,True,True
+"Alice: Mitsubishi UFJ Financial Group operates as a holding company, which provides financial services through its subsidiaries.",1,False,True,True
+Alice: Credit Agricole operates as a holding company that engages in the management of its group companies.,0,False,True,True
+Bob: Micron Technology engages in the provision of innovative memory and storage solutions.,1,False,False,False
+Alice: British American Tobacco has headquarters in India.,0,False,True,True
+"Bob: Hon Hai Precision is a holding company, which engages in the development, manufacture, and marketing of healthcare products.",0,False,False,False
+Alice: China Mobile operates in the industry of Consumer Durables.,0,False,True,True
+Bob: Siemens has headquarters in United States.,0,False,False,False
+"Bob: Raytheon Technologies engages in the provision of aerospace and defense systems and services for commercial, military and government customers.",1,False,False,False
+Alice: HCA Healthcare has headquarters in United States.,1,False,True,True
+Bob: Japan Post Holdings operates in the industry of insurance.,1,False,False,False
+Alice: CNOOC operates in the industry of Insurance.,0,False,True,True
+"Alice: The Home Depot operates in the industry of Food, Drink & Tobacco.",0,False,True,True
+Alice: Walmart is a holding company that engages in the provision of telecommunications media and technology service.,0,False,True,True
+"Alice: Samsung Group engages in the exploration, production, refining and sale of oil, gas, electricity and chemicals.",0,False,True,True
+Alice: Procter & Gamble has headquarters in Luxembourg.,0,False,True,True
+Bob: Microsoft engages in the provision of global health services.,0,False,False,False
+"Bob: ANZ is a software industrial company, which offers industry specific solutions to aerospace and automotive products and services.",0,False,False,False
+"Bob: Visa engages in the provision of digital payment services. It also facilitates global commerce through the transfer of value and information among global network of consumers, merchants, financial institutions, businesses, strategic partners, and government entities.",1,False,False,False
+Alice: Mercedes-Benz Group operates in the industry of Aerospace & Defense.,0,False,True,True
+Alice: Bank of Montreal has headquarters in Japan.,0,False,True,True
+"Bob: UBS Group engages in oil and gas exploration, production, and distribution activities.",0,False,False,False
+Bob: Toronto-Dominion Bank has headquarters in Canada.,1,False,False,False
+"Bob: Dow is a materials science company, combining science and technology to develop innovative solutions.",1,False,False,False
+"Bob: GlaxoSmithKline is a healthcare company that engages in the research, development and manufacture of pharmaceutical medicines, vaccines and consumer healthcare products.",1,False,False,False
+Alice: Sanofi has headquarters in United States.,0,False,True,True
+Bob: Honda Motor has headquarters in Japan.,1,False,False,False
+Bob: Itochu operates in the industry of Transportation.,0,False,False,False
+Alice: China State Construction Engineering operates in the industry of Telecommunications Services.,0,False,True,True
+Bob: PNC Financial Services has headquarters in Japan.,0,False,False,False
+Alice: Bristol Myers Squibb operates in the industry of drugs & biotechnology.,1,False,True,True
+Alice: Verizon Communications operates in the industry of Conglomerates.,0,False,True,True
+Alice: Accenture has headquarters in Ireland.,1,False,True,True
+Bob: Anthem operates in the industry of drugs & biotechnology.,1,False,False,False
+Bob: Allianz operates in the industry of insurance.,1,False,False,False
+"Alice: Charles Schwab Corporation is a savings and loan holding company, which engages in the provision of wealth management, securities brokerage, banking, asset management, custody, and financial advisory services.",1,False,True,True
+Alice: Sanofi has headquarters in France.,1,False,True,True
+Bob: Santander has headquarters in United States.,0,False,False,False
+"Alice: Anthem provides life, hospital and medical insurance plans.",1,False,True,True
+Bob: Airbus Group has headquarters in Netherlands.,1,False,False,False
+Bob: Berkshire Hathaway has headquarters in China.,0,False,False,False
+Alice: Johnson & Johnson provides insurance and financial services to individual and institutional customers.,0,False,True,True
+Bob: Verizon Communications operates in the industry of telecommunications services.,1,False,False,False
+"Alice: Medtronic is a holding company, which engages in the development, manufacture, and marketing of healthcare products.",0,False,True,True
+Alice: Tesla operates in the industry of Transportation.,0,False,True,True
+"Bob: Chubb operates as a holding company, which engages in the provision of commercial and personal property and casualty insurance, personal accident and supplemental health insurance (A&H), reinsurance, and life insurance.",1,False,False,False
+Bob: Canadian Imperial Bank of Commerce operates in the industry of banking.,1,False,False,False
+Alice: Mitsubishi UFJ Financial Group operates in the industry of banking.,1,False,True,True
+Bob: China Vanke operates in the industry of Consumer Durables.,0,False,False,False
+Bob: China Citic Bank operates in the industry of Banking.,0,False,False,False
+Alice: KDDI has headquarters in Japan.,1,False,True,True
+Alice: Zurich Insurance has headquarters in Switzerland.,1,False,True,True
+Alice: E.ON has headquarters in France.,0,False,True,True
+Alice: Glencore has headquarters in Switzerland.,1,False,True,True
+Bob: ING Group engages in the manufacture and sale of electrical equipment.,0,False,False,False
+Alice: British American Tobacco operates in the industry of Banking.,0,False,True,True
+Bob: Electricite de France has headquarters in Russia.,0,False,False,False
+Alice: Coca-Cola provides insurance and financial services to individual and institutional customers.,0,False,True,True
+Alice: Citigroup operates in the industry of diversified financials.,1,False,True,True
+"Bob: Toyota Motor engages in the development, design, manufacture, and sale of electronic equipment, instruments, devices, game consoles, and software for consumers, professionals and industrial markets.",0,False,False,False
+"Alice: Target operates in the industry of Food, Drink & Tobacco.",0,False,True,True
+Alice: Broadcom operates in the industry of Capital Goods.,0,False,True,True
+"Alice: China State Construction Engineering engages in the provision of analytical instruments, equipment, reagents and consumables, software and services for research, analysis, discovery and diagnostics.",0,False,True,True
+Alice: United Parcel Service has headquarters in United States.,1,False,True,True
+Bob: MetLife operates in the industry of Consumer Durables.,0,False,False,False
+"Bob: China Telecom is a health care services company, which engages in operating hospitals, freestanding surgery centers and emergency rooms, and urgent care centers.",0,False,False,False
+Bob: PetroChina operates in the industry of oil & gas operations.,1,False,False,False
+Bob: Siemens has headquarters in Germany.,1,False,False,False
+Bob: Sanofi operates in the industry of drugs & biotechnology.,1,False,False,False
+Bob: Novartis has headquarters in Switzerland.,1,False,False,False
+Alice: Nippon Telegraph & Telephone has headquarters in Japan.,1,False,True,True
+Alice: Bank of China operates in the industry of Conglomerates.,0,False,True,True
+"Bob: Mitsubishi engages in the exploration, production, transportation and marketing of crude oil, bitumen, natural gas, natural gas liquids and liquefied natural gas on a worldwide basis.",0,False,False,False
+Alice: Walt Disney has headquarters in Germany.,0,False,True,True
+Alice: Charles Schwab Corporation engages in the development and sale of properties.,0,False,True,True
+Alice: Hon Hai Precision operates in the industry of Consumer Durables.,0,False,True,True
+Bob: Vale has headquarters in China.,0,False,False,False
+Bob: General Motors engages in the provision of healthcare services.,0,False,False,False
+Alice: China Mobile has headquarters in Hong Kong.,1,False,True,True
+Bob: Hyundai Motor operates in the industry of consumer durables.,1,False,False,False
+"Alice: Bank of Nova Scotia engages in the provision of aerospace and defense systems and services for commercial, military and government customers.",0,False,True,True
+Alice: ConocoPhillips engages in the provision of banking and financial services.,0,False,True,True
+"Bob: ArcelorMittal engages in the manufacturing and distribution of equipment used in agriculture, construction, forestry, and turf care.",0,False,False,False
+Bob: RBC operates in the industry of Insurance.,0,False,False,False
+"Alice: ConocoPhillips engages in the exploration, production, transportation and marketing of crude oil, bitumen, natural gas, natural gas liquids and liquefied natural gas on a worldwide basis.",1,False,True,True
+Bob: Charles Schwab Corporation has headquarters in Japan.,0,False,False,False
+Bob: Manulife operates in the industry of Diversified Financials.,0,False,False,False
+"Alice: Rio Tinto engages in the exploration, mining, and processing of mineral resources.",1,False,True,True
+Bob: Itau Unibanco Holding operates in the industry of banking.,1,False,False,False
+Bob: Walgreens engages in the provision of drug store services.,1,False,False,False
+"Alice: Wells Fargo engages in the discovery, development, manufacture and sale of a broad and diversified line of healthcare products.",0,False,True,True
+Bob: Taiwan Semiconductor Manufacturing Company has headquarters in Taiwan.,1,False,False,False
+Bob: Deere & Company operates in the industry of Banking.,0,False,False,False
+Alice: Itochu engages in oil and natural gas production.,0,False,True,True
+Bob: Intel operates in the industry of semiconductors.,1,False,False,False
+Alice: Tokio Marine Holdings has headquarters in Japan.,1,False,True,True
+"Bob: PNC Financial Services is a holding company, which engages in the provision of financial services.",1,False,False,False
+Bob: Industrial Bank engages in owning and operating of general merchandise stores.,0,False,False,False
+Bob: National Australia Bank has headquarters in United States.,0,False,False,False
+Bob: China Merchants Bank operates in the industry of Consumer Durables.,0,False,False,False
+"Alice: Bank of Nova Scotia engages in the provision of financial products and services, including personal, commercial, corporate, and investment banking.",1,False,True,True
+Alice: Anglo American has headquarters in United States.,0,False,True,True
+Alice: Danaher engages in the provision of insurance and investment advisory services.,0,False,True,True
+Alice: HCA Healthcare operates in the industry of Transportation.,0,False,True,True
+Bob: Equinor has headquarters in United States.,0,False,False,False
+Bob: Saudi Arabian Oil Company (Saudi Aramco) has headquarters in Switzerland.,0,False,False,False
+Alice: Sony operates in the industry of consumer durables.,1,False,True,True
+Alice: Prudential Financial has headquarters in China.,0,False,True,True
+Alice: Truist Financial has headquarters in United States.,1,False,True,True
+Bob: Deutsche Post has headquarters in Switzerland.,0,False,False,False
+Alice: FedEx has headquarters in Taiwan.,0,False,True,True
+Bob: Taiwan Semiconductor Manufacturing Company has headquarters in China.,0,False,False,False
+Alice: Broadcom has headquarters in United States.,1,False,True,True
+Alice: Roche Holding operates as a research healthcare company.,1,False,True,True
+Alice: Canadian Imperial Bank of Commerce has headquarters in Canada.,1,False,True,True
+"Bob: Shanghai Pudong Development Bank is a materials science company, combining science and technology to develop innovative solutions.",0,False,False,False
+Alice: Intesa Sanpaolo engages in the provision of financial products and banking services.,1,False,True,True
+"Bob: China Construction Bank engages in the research, production and distribution of pharmaceutical products.",0,False,False,False
+Alice: Mitsui operates in the industry of Retailing.,0,False,True,True
+Bob: Canadian Imperial Bank of Commerce has headquarters in Brazil.,0,False,False,False
+"Bob: SAP is an investment holding company that engages in the exploration, development, production and sale of crude oil, natural gas and other petroleum products through its subsidiaries.",0,False,False,False
+Bob: HDFC Bank has headquarters in India.,1,False,False,False
+Bob: Merck & Co. operates in the industry of Telecommunications Services.,0,False,False,False
+Bob: Walgreens operates in the industry of Banking.,0,False,False,False
+Bob: MetLife provides insurance and financial services to individual and institutional customers.,1,False,False,False
+Alice: Lloyds Banking Group has headquarters in United Kingdom.,1,False,True,True
+"Alice: CNOOC is an investment holding company that engages in the exploration, development, production and sale of crude oil, natural gas and other petroleum products through its subsidiaries.",1,False,True,True
+"Bob: LukOil engages in the exploration, production, refining, marketing and distribution of oil.",1,False,False,False
+"Alice: Coca-Cola operates in the industry of food, drink & tobacco.",1,False,True,True
+Alice: Intesa Sanpaolo operates in the industry of banking.,1,False,True,True
+"Bob: Duke Energy is a financial services company, which engages in the provision of a wide range of banking and financial services.",0,False,False,False
+Alice: CITIC operates in the industry of trading companies.,1,False,True,True
+"Alice: Roche Holding is a media, entertainment and communications company that engages in the provision of video, Internet and phone services.",0,False,True,True
+Alice: Industrial and Commercial Bank of China operates in the industry of banking.,1,False,True,True
+Bob: China Telecom operates in the industry of Materials.,0,False,False,False
+Bob: AT&T is a holding company that engages in the provision of telecommunications media and technology service.,1,False,False,False
+Bob: Coca-Cola has headquarters in South Korea.,0,False,False,False
+Alice: Deutsche Telekom has headquarters in France.,0,False,True,True
+Bob: Allianz has headquarters in Brazil.,0,False,False,False
+Bob: AbbVie (ABBV) has headquarters in Germany.,0,False,False,False
+Bob: BlackRock operates in the industry of Materials.,0,False,False,False
+Alice: Anheuser-Busch InBev has headquarters in Belgium.,1,False,True,True
+Alice: Agricultural Bank of China engages in the provision of banking and financial services.,0,False,True,True
+Bob: Pfizer operates in the industry of drugs & biotechnology.,1,False,False,False
+Bob: UnitedHealth Group engages in the provision of financial services.,0,False,False,False
+Bob: SoftBank has headquarters in France.,0,False,False,False
+Bob: Merck & Co. engages in the provision of banking and financial services.,0,False,False,False
+Alice: Morgan Stanley operates as a global financial services company.,1,False,True,True
+Bob: Moller - Maersk engages in the provision of financial and insurance services.,0,False,False,False
+Alice: American International Group operates in the industry of Insurance.,0,False,True,True
+Alice: Munich Reinsurance operates in the industry of Banking.,0,False,True,True
+Bob: Allianz operates in the industry of Drugs & Biotechnology.,0,False,False,False
+Alice: Lowe's operates in the industry of Media.,0,False,True,True
+"Bob: PepsiCo engages in the provision of analytical instruments, equipment, reagents and consumables, software and services for research, analysis, discovery and diagnostics.",0,False,False,False
+"Bob: HDFC Bank engages in the provision of banking and financial services, including commercial banking and treasury operations.",1,False,False,False
+"Bob: PetroChina engages in the petroleum related products, services and activities.",1,False,False,False
+"Bob: Thermo Fisher Scientific engages in the provision of analytical instruments, equipment, reagents and consumables, software and services for research, analysis, discovery and diagnostics.",1,False,False,False
+Alice: BP operates in the industry of oil & gas operations.,1,False,True,True
+Alice: Charles Schwab Corporation operates in the industry of diversified financials.,1,False,True,True
+Bob: E.ON has headquarters in Germany.,1,False,False,False
+Alice: Deere & Company operates in the industry of capital goods.,1,False,True,True
+Bob: China Citic Bank has headquarters in United States.,0,False,False,False
+Bob: Itau Unibanco Holding operates as a research healthcare company.,0,False,False,False
+"Bob: AIA Group engages in the design, manufacture and sale of computer products and technologies.",0,False,False,False
+Bob: Fubon Financial engages in the provision of broadband communications services.,0,False,False,False
+Bob: Postal Savings Bank of China engages in the provision of banking and related financial services.,1,False,False,False
+Bob: Stellantis engages in distribution of natural gas and energy related services.,0,False,False,False
+Alice: China Construction Bank engages in the provision of a wide range of financial services to corporate and personal customers.,1,False,True,True
+Alice: Glencore operates in the industry of materials.,1,False,True,True
+Bob: Broadcom has headquarters in United Kingdom.,0,False,False,False
+Alice: CVS Health engages in the provision of healthcare services.,1,False,True,True
+Alice: Univlever has headquarters in Japan.,0,False,True,True
+Alice: Public Joint Stock Company Gazprom operates in the industry of Insurance.,0,False,True,True
+Bob: Abbott Laboratories has headquarters in Germany.,0,False,False,False
+Bob: Lowe's operates in the industry of retailing.,1,False,False,False
+Alice: Santander operates in the industry of banking.,1,False,True,True
+Alice: Agricultural Bank of China engages in the provision of international commercial banking and financial services.,1,False,True,True
+Bob: Bank of China operates in the industry of banking.,1,False,False,False
+Bob: America Movil operates in the industry of Consumer Durables.,0,False,False,False
+Bob: China Mobile operates in the industry of telecommunications services.,1,False,False,False
+Alice: Itochu has headquarters in Japan.,1,False,True,True
+"Alice: Mercedes-Benz Group engages in the production and distribution of cars, trucks and vans.",1,False,True,True
+Bob: China Petroleum & Chemical operates in the industry of Oil & Gas Operations.,0,False,False,False
+Bob: SoftBank operates in the industry of Diversified Financials.,0,False,False,False
+Alice: Walt Disney engages in the manufacture and sale of automobiles and motorcycles.,0,False,True,True
+Alice: Tokio Marine Holdings has headquarters in United States.,0,False,True,True
+"Bob: China Vanke engages in the discovery, development, licensing, manufacture, marketing, distribution and sale of biopharmaceutical products.",0,False,False,False
+Alice: Shell operates in the industry of Consumer Durables.,0,False,True,True
+Bob: Alibaba Group has headquarters in Germany.,0,False,False,False
+Alice: Santander operates in the industry of Consumer Durables.,0,False,True,True
+Alice: Commonwealth Bank of Australia operates in the industry of banking.,1,False,True,True
+"Alice: E.ON is a holding company, which engages in the development, manufacture, and marketing of healthcare products.",0,False,True,True
+Bob: Charter Communications engages in the provision of broadband communications services.,1,False,False,False
+"Alice: Saudi Arabian Oil Company (Saudi Aramco) engages in the exploration, production, transportation, and sale of crude oil and natural gas.",1,False,True,True
+Bob: Citigroup has headquarters in Germany.,0,False,False,False
+Alice: Mitsui engages in the general trading business.,1,False,True,True
+"Bob: China Life Insurance engages in the provision of healthcare coverage, software and data consultancy services.",0,False,False,False
+Bob: Charter Communications has headquarters in Canada.,0,False,False,False
+Alice: China Construction Bank has headquarters in China.,1,False,True,True
+Alice: BASF operates in the industry of Banking.,0,False,True,True
+Alice: Alphabet has headquarters in South Korea.,0,False,True,True
+Alice: Berkshire Hathaway operates in the industry of Transportation.,0,False,True,True
+Bob: Public Joint Stock Company Gazprom has headquarters in China.,0,False,False,False
+Bob: Lockheed Martin operates in the industry of Banking.,0,False,False,False
+"Bob: Stellantis engages in the design, engineering, manufacturing, distribution and sale of automobiles and light commercial vehicles, engines, transmission systems, automotive-related components, metallurgical products and production systems.",1,False,False,False
+Bob: Deutsche Telekom operates in the industry of telecommunications services.,1,False,False,False
+Alice: AT&T has headquarters in United States.,1,False,True,True
+Bob: Accenture operates in the industry of Oil & Gas Operations.,0,False,False,False
+Bob: Moller - Maersk has headquarters in Denmark.,1,False,False,False
+Alice: Mitsui has headquarters in China.,0,False,True,True
+Alice: Goldman Sachs Group operates in the industry of Insurance.,0,False,True,True
+Alice: China Telecom has headquarters in China.,1,False,True,True
+Bob: Japan Post Holdings has headquarters in Japan.,1,False,False,False
+Bob: Lloyds Banking Group is a holding company that engages in the provision of financial products and services.,0,False,False,False
+Alice: United Parcel Service has headquarters in Japan.,0,False,True,True
+Alice: IBM operates in the industry of it software & services.,1,False,True,True
+Alice: Toronto-Dominion Bank engages in the provision of financial products and services.,0,False,True,True
+Bob: Banco Bradesco has headquarters in Brazil.,1,False,False,False
+Bob: Allianz engages in the provision of insurance and investment advisory services.,1,False,False,False
+Alice: Industrial Bank has headquarters in United States.,0,False,True,True
+Bob: Commonwealth Bank of Australia has headquarters in Australia.,1,False,False,False
+Alice: Intesa Sanpaolo has headquarters in Brazil.,0,False,True,True
+"Bob: BBVA is a banking services company, which engages in the provision of banking services to individuals, companies, and institutions.",0,False,False,False
+Alice: Amazon.com operates in the industry of Semiconductors.,0,False,True,True
+Bob: SK Hynix engages in the manufacture and sale of semiconductor products.,1,False,False,False
+Alice: Oracle has headquarters in Ireland.,0,False,True,True
+Alice: UBS Group operates in the industry of banking.,1,False,True,True
+Alice: Tokio Marine Holdings engages in the management of its group companies which are in the insurance business.,1,False,True,True
+Alice: Santander engages in the provision of banking and financial services.,0,False,True,True
+"Bob: Bank of America is a bank and financial holding company, which engages in the provision of banking and nonbank financial services.",1,False,False,False
+Bob: ConocoPhillips operates in the industry of oil & gas operations.,1,False,False,False
+Bob: Deutsche Telekom operates in the industry of Telecommunications Services.,0,False,False,False
+Alice: Reliance Industries operates in the industry of gas & oil operations.,1,False,True,True
+Alice: Samsung Group operates in the industry of Banking.,0,False,True,True
+Bob: Microsoft operates in the industry of it software & services.,1,False,False,False
+Alice: Meta Platforms engages in the provision of banking and financial services.,0,False,True,True
+Bob: SAP operates in the industry of Oil & Gas Operations.,0,False,False,False
+Alice: LukOil operates as a holding company that engages in the provision of insurance and asset management services.,0,False,True,True
+Bob: Taiwan Semiconductor Manufacturing Company operates in the industry of semiconductors.,1,False,False,False
+Alice: LVMH Moet Hennessy Louis Vuitton has headquarters in France.,1,False,True,True
+Bob: Mercedes-Benz Group operates as an integrated oil and gas company.,0,False,False,False
+Alice: Johnson & Johnson operates in the industry of drugs & biotechnology.,1,False,True,True
+Alice: U.S. Bancorp engages in the manufacture and sale of motor vehicles and parts.,0,False,True,True
+Bob: Hitachi has headquarters in United States.,1,False,False,False
+"Alice: Bank of Montreal engages in the design, manufacture and sale of computer products and technologies.",0,False,True,True
+Alice: Medtronic has headquarters in Hong Kong.,0,False,True,True
+Bob: BNP Paribas has headquarters in France.,1,False,False,False
+Bob: China Petroleum & Chemical operates in the industry of oil & gas operations.,1,False,False,False
+"Alice: IBM engages in the exploration, mining, and processing of mineral resources.",0,False,True,True
+Alice: China Petroleum & Chemical has headquarters in South Korea.,0,False,True,True
+Alice: Mizuho Financial has headquarters in Japan.,1,False,True,True
+Bob: AXA operates as a holding company that engages in the provision of insurance and asset management services.,1,False,False,False
+Alice: Cisco Systems operates in the industry of technology hardware & equipment.,1,False,True,True
+Alice: Bank of Communications operates in the industry of banking.,1,False,True,True
+Bob: Honda Motor operates in the industry of Chemicals.,0,False,False,False
+Bob: Allianz has headquarters in Germany.,1,False,False,False
+Alice: Duke Energy has headquarters in United Kingdom.,0,False,True,True
+Bob: HDFC Bank operates as a global financial services company.,0,False,False,False
+Alice: Munich Reinsurance has headquarters in United States.,0,False,True,True
+Alice: PetroChina has headquarters in South Korea.,0,False,True,True
+Bob: U.S. Bancorp operates in the industry of Banking.,0,False,False,False
+Alice: Danaher has headquarters in China.,0,False,True,True
+Bob: Mizuho Financial has headquarters in Germany.,0,False,False,False
+Alice: Equinor has headquarters in Norway.,1,False,True,True
+Alice: Toyota Motor operates in the industry of consumer durables.,1,False,True,True
+Alice: Walmart has headquarters in United States.,1,False,True,True
+Alice: Univlever operates in the industry of Banking.,0,False,True,True
+Bob: Charles Schwab Corporation has headquarters in United States.,1,False,False,False
+Bob: Sumitomo Mitsui Financial is a holding company that engages in the management of its subsidiaries that provide financial services.,1,False,False,False
+Alice: Caterpillar has headquarters in United States.,1,False,True,True
+Bob: Enbridge engages in the provision of gas and oil businesses.,1,False,False,False
+Bob: Anthem operates in the industry of Health Care Equipment & Services.,0,False,False,False
+"Bob: Cisco Systems engages in the design, manufacture, and sale of Internet Protocol based networking products and services related to the communications and information technology industry.",1,False,False,False
+Bob: Walgreens operates in the industry of retailing.,1,False,False,False
+Alice: China Merchants Bank operates in the industry of banking.,1,False,True,True
+Bob: Duke Energy operates in the industry of Banking.,0,False,False,False
+"Alice: ING Group engages in the provision of banking, investments, life and non-life insurance, and retirement and asset management services.",1,False,True,True
+"Alice: Oracle engages in the design, manufacture and sale of computer products and technologies.",0,False,True,True
+Alice: Banco Bradesco operates in the industry of Semiconductors.,0,False,True,True
+Alice: Bank of Nova Scotia operates in the industry of banking.,1,False,True,True
+Alice: Mitsubishi has headquarters in Germany.,0,False,True,True
+"Bob: Berkshire Hathaway operates as a financial holding company, which engages in the provision of banking services to individuals, businesses and municipalities.",0,False,False,False
+"Bob: National Australia Bank is a materials science company, combining science and technology to develop innovative solutions.",0,False,False,False
+Bob: Westpac Banking operates in the industry of banking.,1,False,False,False
+"Bob: Japan Post Holdings operates as a holding company, which provides financial services through its subsidiaries.",0,False,False,False
+Alice: ING Group operates in the industry of Materials.,0,False,True,True
+Alice: Goldman Sachs Group has headquarters in China.,0,False,True,True
+Bob: Volkswagen Group has headquarters in Germany.,1,False,False,False
+Bob: Poly Developments & Holdings Group operates in the industry of Banking.,0,False,False,False
+Bob: Enel engages in the electricity generation and distribution and distribution of natural gas.,1,False,False,False
+Bob: Visa has headquarters in Switzerland.,0,False,False,False
+"Bob: Petrobras engages in shipping, energy, transportation, offshore drilling, and retail activities.",0,False,False,False
+Bob: Commonwealth Bank of Australia operates in the industry of Insurance.,0,False,False,False
+"Bob: Danaher operates as a medical company, which designs, manufactures, and markets professional, medical, industrial and commercial products and services.",1,False,False,False
+Bob: Bristol Myers Squibb has headquarters in United States.,1,False,False,False
+"Alice: China Citic Bank is a commercial bank, which engages in the provision of corporate and personal banking services.",1,False,True,True
+Bob: Amazon.com has headquarters in United States.,1,False,False,False
+Alice: Mercedes-Benz Group operates in the industry of consumer durables.,1,False,True,True
+Alice: CVS Health has headquarters in United States.,1,False,True,True
+Bob: Accenture provides financial products and services.,0,False,False,False
+Alice: Cisco Systems operates in the industry of Banking.,0,False,True,True
+"Bob: Industrial and Commercial Bank of China engages in the development, design, manufacture, and sale of electronic equipment, instruments, devices, game consoles, and software for consumers, professionals and industrial markets.",0,False,False,False
+Alice: BBVA has headquarters in United States.,0,False,True,True
+"Alice: Mitsubishi UFJ Financial Group is a commercial bank, which engages in the provision of corporate and personal banking services.",0,False,True,True
+Alice: JPMorgan Chase operates in the industry of diversified financials.,1,False,True,True
+Alice: Fubon Financial operates in the industry of Capital Goods.,0,False,True,True
+Bob: British American Tobacco British American Tobacco Acts as a financing subsidiary/special purpose entity.,1,False,False,False
+Alice: Walmart engages in retail and wholesale business.,1,False,True,True
+"Bob: Bristol Myers Squibb operates in the industry of Food, Drink & Tobacco.",0,False,False,False
+Bob: Amazon.com engages in the provision of online retail shopping services.,1,False,False,False
+Bob: LukOil operates in the industry of Oil & Gas Operations.,0,False,False,False
+Alice: Microsoft has headquarters in Germany.,0,False,True,True
+Alice: Wells Fargo operates in the industry of Diversified Financials.,0,False,True,True
+Alice: Merck & Co. has headquarters in Germany.,0,False,True,True
+Alice: Walmart operates in the industry of Retailing.,0,False,True,True
+Bob: ArcelorMittal has headquarters in Luxembourg.,1,False,False,False
+Bob: Exxon Mobil engages in the provision of banking and financial services.,0,False,False,False
+Bob: Airbus Group operates in the industry of aerospace & defense.,1,False,False,False
+Bob: SAP has headquarters in United States.,0,False,False,False
+Alice: Commonwealth Bank of Australia engages in the provision of banking and financial services.,1,False,True,True
+Alice: BlackRock has headquarters in Russia.,0,False,True,True
+Bob: Shanghai Pudong Development Bank has headquarters in China.,1,False,False,False
+"Alice: Canadian Imperial Bank of Commerce is a financial institution, which engages in the provision of banking and wealth management services.",1,False,True,True
+Bob: Cisco Systems has headquarters in United States.,1,False,False,False
+Alice: PetroChina has headquarters in China.,1,False,True,True
+Bob: Deere & Company has headquarters in Saudi Arabia.,0,False,False,False
+Alice: State Bank of India engages in the electricity generation and distribution and distribution of natural gas.,0,False,True,True
+Alice: The Home Depot has headquarters in Switzerland.,0,False,True,True
+Alice: AXA has headquarters in United States.,0,False,True,True
+Bob: Airbus Group engages in the provision of telecommunications services.,0,False,False,False
+Bob: Cigna Corporation has headquarters in United States.,1,False,False,False
+Bob: RBC engages in the provision of financial services.,0,False,False,False
+Bob: Bank of Montreal operates in the industry of Oil & Gas Operations.,0,False,False,False
+Alice: BASF has headquarters in Japan.,0,False,True,True
+Alice: Poly Developments & Holdings Group operates in the industry of construction.,1,False,True,True
+Bob: Zurich Insurance operates in the industry of Banking.,0,False,False,False
+Bob: Enbridge operates in the industry of oil & gas operations.,1,False,False,False
+Alice: Tencent Holdings engages in the provision of energy solutions.,0,False,True,True
+"Alice: Bank of Communications engages in the provision of electricity, natural gas, and energy related services.",0,False,True,True
+Alice: Hyundai Motor engages in owning and operating of general merchandise stores.,0,False,True,True
+Bob: BP has headquarters in United Kingdom.,1,False,False,False
+Alice: Rosneft operates in the industry of oil & gas operations.,1,False,True,True
+Alice: HCA Healthcare operates as an investment holding company.,0,False,True,True
+Bob: Anglo American engages in the provision of healthcare services.,0,False,False,False
+"Alice: Postal Savings Bank of China engages in the provision of life, annuity, accident, and health insurance.",0,False,True,True
+"Alice: Iberdrola is a holding company, which engages in the provision of insurance products and related services.",0,False,True,True
+"Alice: Enbridge engages in the provision of banking, investments, life and non-life insurance, and retirement and asset management services.",0,False,True,True
+Alice: Manulife is a financial services company that engages in the provision of financial protection and wealth management products and services.,1,False,True,True
+Alice: BASF has headquarters in Germany.,1,False,True,True
+Alice: BASF operates in the industry of chemicals.,1,False,True,True
+"Bob: ArcelorMittal is a holding company, which engages in steelmaking and mining activities.",1,False,False,False
+Alice: GlaxoSmithKline operates in the industry of drugs & biotechnology.,1,False,True,True
+"Bob: U.S. Bancorp operates as a bank holding company that offers financial services, including lending and depository services, cash management, foreign exchange and trust and investment management.",1,False,False,False
+Bob: Pfizer operates in the industry of Insurance.,0,False,False,False
+"Alice: Walgreens engages in the provision of management consulting, technology, and outsourcing services.",0,False,True,True
+Alice: Dow is a holding company that engages in the provision of telecommunication services.,0,False,True,True
+Bob: Credit Agricole engages in the provision of banking and financial services.,1,False,False,False
+Alice: Thermo Fisher Scientific has headquarters in United States.,1,False,True,True
+"Alice: American Express operates as a bank holding company that engages in the business of providing retail banking, credit cards, corporate and investment banking and wealth management services.",0,False,True,True
+Bob: Rio Tinto has headquarters in Australia.,1,False,False,False
+Bob: ING Group has headquarters in Netherlands.,1,False,False,False
+"Alice: Sanofi engages in the research, production and distribution of pharmaceutical products.",1,False,True,True
+"Bob: VINCI engages in the design, building, finance and management of facilities for transport systems, public and private buildings and urban development and water, energy and communication networks.",1,False,False,False
+Alice: Tencent Holdings has headquarters in United Kingdom.,0,False,True,True
+Bob: U.S. Bancorp has headquarters in United States.,1,False,False,False
+Alice: China Merchants Bank engages in oil and natural gas production.,0,False,True,True
+Alice: Samsung Group engages in the manufacturing and selling of electronics and computer peripherals.,1,False,True,True
+Alice: BHP Group operates in the industry of materials.,1,False,True,True
+Alice: Comcast operates in the industry of Banking.,0,False,True,True
+Alice: Comcast has headquarters in Taiwan.,0,False,True,True
+"Bob: Prudential Financial engages in the exploration, production, transportation and marketing of crude oil, bitumen, natural gas, natural gas liquids and liquefied natural gas on a worldwide basis.",0,False,False,False
+"Bob: Hon Hai Precision engages in the design, development and manufacturing of nanotechnology, heat transfer, wireless connectivity and material sciences products.",1,False,False,False
+Bob: Eni operates in the industry of oil & gas operations.,1,False,False,False
+"Alice: CITIC is an investment holding company, which engages in finance, energy, engineering, manufacturing, and real estate businesses.",1,False,True,True
+Alice: China Shenhua Energy engages in the production and sale of coal and electricity.,1,False,True,True
