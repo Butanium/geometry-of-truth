@@ -12,8 +12,8 @@ parser.add_argument("--checkpoint-start", type=int, default=0)
 args = parser.parse_args()
 label_names = [
     "has_alice",
-    "has_en",
-    "has_alice xor has_en",
+    "is_en",
+    "has_alice xor is_en",
 ]
 DEVICE = "cuda"
 if DEVICE == "auto":
@@ -24,7 +24,7 @@ all_checkpoints = (
 model = args.model
 cfg = AutoConfig.from_pretrained(model)
 all_accs = {}
-for step in tqdm(all_checkpoints[args.checkpoint_start:]):
+for step in tqdm(all_checkpoints[args.checkpoint_start :]):
     revision = f"step{step}"
     accs = {}
     for label_name in label_names:

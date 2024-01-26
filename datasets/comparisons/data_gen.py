@@ -138,7 +138,6 @@ smaller_out = {
 
 for i, x in enumerate(numbers):
     for j, y in enumerate(numbers):
-
         if not is_valid(i, j):
             continue
         larger_statement = f"{x.capitalize()} is larger than {y}."
