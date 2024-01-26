@@ -4,7 +4,7 @@
 
 We are investigating the [RAX hypothesis](https://www.alignmentforum.org/posts/hjJXCn9GsskysDceS/what-s-up-with-llms-representing-xors-of-arbitrary-features) developed by Samuel Marks. It posits that LLMs linearly represent XORs of arbitrary features, even when there's no apparent reason to do so.
 
-Currently, the following changes have been implemented in the original repository:
+Currently, the following changes have been introduced compared to the original repository:
 - Computing activations per batch instead of per statement
 - Improving the way datasets are generated
 - Adding new datasets
