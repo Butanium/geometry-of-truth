@@ -1,5 +1,20 @@
-# The Geometry of Truth
+# The RAX Hypothesis
 
+## Our Experiments
+
+We are investigating the [RAX hypothesis](https://www.alignmentforum.org/posts/hjJXCn9GsskysDceS/what-s-up-with-llms-representing-xors-of-arbitrary-features) developed by Samuel Marks. It posits that LLMs linearly represent XORs of arbitrary features, even when there's no apparent reason to do so.
+
+Currently, the following changes have been implemented in the original repository:
+- Computing activations per batch instead of per statement
+- Improving the way datasets are generated
+- Adding new datasets
+- Enhancing the methods for generating, storing, and loading activations
+- Adding support for any HuggingFace transformer model
+- Incorporating support for model revision to study the evolution of the RAX hypothesis during training using the Pythia models
+
+Feel free to to get in touch in the #eliciting-latent-knowledge channel on the EleutherAI Discord server.
+
+# Original README (not up to date)
 This repository is associated to the paper <a href="https://arxiv.org/abs/2310.06824">*The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets*</a> by Samuel Marks and Max Tegmark. See also our <a href="https://saprmarks.github.io/geometry-of-truth/dataexplorer">interactive dataexplorer</a>.
 
 (<a href="https://github.com/saprmarks/geometry-of-truth">View this page on github</a>.)
@@ -8,7 +23,7 @@ This repository is associated to the paper <a href="https://arxiv.org/abs/2310.0
 
 Navigate to the location that you want to clone this repo to, clone and enter the repo, and install requirements.
 ```
-git clone git@github.com:saprmarks/geometry-of-truth.git
+git clone git@github.com:butanium/geometry-of-truth.git
 cd geometry-of-truth
 pip install -r requirements.txt
 ```
